@@ -60,15 +60,22 @@ const mergeAllPairs = R.map(mergePairsInArray)
 const joinByFieldName = R.compose(mergeAllPairs,onlyMatchedPairs,allPairs)
 console.log('joinByFieldName', joinByFieldName(list1,list2));
 
+const mylog =  R.curry((prefix,data) => console.log(prefix,data))
 
-
-const joinByX = R.compose(mergeAllPairs,R.filter(R.converge(R.eqProps("name"),[R.head,R.last])),allPairs)
+const joinByX = R.compose(mergeAllPairs,R.filter(R.converge(R.eqProps("name"),[R.head,R.last])),
+  R.tap(mylog('allpairs')),allPairs)
 console.log('joinByX', joinByX(list1,list2))
 
-/*
-const joinByX1 = R.compose(mergeAllPairs,R.filter(R.converge(R._,[R.head,R.last])),allPairs)
-console.log('joinByX', joinByX(R.eqProps('name'))(list1,list2))
-*/
+const joinByX3 = R.curry((fn,l1,l2) => 
+  R.compose(mergeAllPairs,R.filter(R.converge(R.eqProps(fn),[R.head,R.last])),
+    R.tap(mylog('allpairs')),allPairs)(l1,l2))
+console.log('joinByX3',joinByX3('id')(list1,list2))
+
+
+
+//const joinByX1 = R.compose(mergeAllPairs,R.filter(R.converge(R._,[R.head,R.last])),allPairs)
+//console.log('joinByX', joinByX(R.eqProps('name'))(list1,list2))
+
 /*
  *
  * tips
