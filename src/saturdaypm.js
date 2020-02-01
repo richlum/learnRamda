@@ -66,44 +66,34 @@ console.log('joinByFieldName', joinByFieldName(list1,list2));
 
 const mylog =  R.curry((prefix,data) => console.log(prefix,data))
 
-const joinByX = R.compose(mergeAllPairs,R.filter(R.converge(R.eqProps("name"),[R.head,R.last])),
+const joinByX = R.compose(mergeAllPairs,
+  R.tap(mylog('filtered')),
+    R.filter(R.converge(R.eqProps("name"),[R.head,R.last])),
   R.tap(mylog('allpairs')),allPairs)
 console.log('joinByX', joinByX(list1,list2))
 
 
-// delay the definition of the fieldname by parameterizing and currying the whole function
-const joinByX3 = R.curry((fn,l1,l2) => 
-  R.compose(mergeAllPairs,R.filter(R.converge(R.eqProps(fn),[R.head,R.last])),
-    R.tap(mylog('allpairs')),allPairs)(l1,l2))
-console.log('joinByX3',joinByX3('id')(list1,list2))
 
-const matchByX =  R.curry((fn,data) => R.converge(R.eqProps(fn),[R.head,R.last])(data))
-const filterByX = R.curry((fn,data) => R.filter(matchByX(fn))(data))
-const joinByX4 =  R.curry((fn,l1,l2) => R.compose(mergeAllPairs,filterByX(fn),allPairs)(l1,l2))
-console.log('joinByX4-name',joinByX4('name')(list1,list2))
-console.log('joinByX4-id',joinByX4('id')(list1,list2))
+// this exposes R.__ cant know if its a string or array of char?
+const myeqProps =  R.curry((val) => {
+  console.log('myeqprops',val);
+  return R.eqProps(val);
+})
+const joinByX2 = R.curry((fn) => 
+  R.compose(mergeAllPairs,
+    R.tap(mylog('filtered')),
+      R.filter(R.converge(myeqProps(fn),[R.head,R.last])),
+    R.tap(mylog('allpairs')),
+      allPairs))
+const joinByX2Name = R.curry(joinByX2('name',R.__,R.__))
+//const joinByX2Name = R.curry(joinByX2(R.__,"name",R.__))
+//const joinByX2Name = R.curry(joinByX2(R.__,R.__,"name"))
+console.log('joinByX2', joinByX2Name(list1,list2))
 
 
 
 
 
 
-//const joinByX1 = R.compose(mergeAllPairs,R.filter(R.converge(R._,[R.head,R.last])),allPairs)
-//console.log('joinByX', joinByX(R.eqProps('name'))(list1,list2))
 
-/*
- *
- * tips
- * pay attention to signature, especially things like array of functions
- * converge seems really specific, apply an array of functions to each
- *  entry and then a function to array of results.
- *
- * The goal seems to be to arrange the sequence of functions into a 
- * nameable pipeline(function composition) that makes sense from the
- * application perspective without applying it to the data.
- *
- * The data input should be the last step... this seems to give flexibility
- * to re-engineering the pipeline without dealing with the specifics
- * of the input data.
- */
 
