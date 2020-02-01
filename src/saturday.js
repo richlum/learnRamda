@@ -3,18 +3,22 @@ const R = require('ramda')
 
 const list1 = [{
   name: 'allan',
+  lname: 'ardvark',
   age: 10,
   id: 1
 },{
   name: 'bob',
+  lname: 'bongo',
   age: 11,
   id: 2
 },{
   name: 'carol',
+  lname: 'carrot',
   age: 13,
   id: 3
 },{
   name: 'doug',
+  lname: 'dangerous',
   age: 14,
   id: 4
 }]
@@ -66,10 +70,19 @@ const joinByX = R.compose(mergeAllPairs,R.filter(R.converge(R.eqProps("name"),[R
   R.tap(mylog('allpairs')),allPairs)
 console.log('joinByX', joinByX(list1,list2))
 
+
+// delay the definition of the fieldname by parameterizing and currying the whole function
 const joinByX3 = R.curry((fn,l1,l2) => 
   R.compose(mergeAllPairs,R.filter(R.converge(R.eqProps(fn),[R.head,R.last])),
     R.tap(mylog('allpairs')),allPairs)(l1,l2))
 console.log('joinByX3',joinByX3('id')(list1,list2))
+
+const matchByX =  R.curry((fn,data) => R.converge(R.eqProps(fn),[R.head,R.last])(data))
+const filterByX = R.curry((fn,data) => R.filter(matchByX(fn))(data))
+const joinByX4 =  R.curry((fn,l1,l2) => R.compose(mergeAllPairs,filterByX(fn),allPairs)(l1,l2))
+console.log('joinByX4',joinByX4('name')(list1,list2))
+
+
 
 
 
