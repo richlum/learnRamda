@@ -62,7 +62,13 @@ console.log('joinByFieldName', joinByFieldName(list1,list2));
 
 
 
+const joinByX = R.compose(mergeAllPairs,R.filter(R.converge(R.eqProps("name"),[R.head,R.last])),allPairs)
+console.log('joinByX', joinByX(list1,list2))
 
+/*
+const joinByX1 = R.compose(mergeAllPairs,R.filter(R.converge(R._,[R.head,R.last])),allPairs)
+console.log('joinByX', joinByX(R.eqProps('name'))(list1,list2))
+*/
 /*
  *
  * tips
