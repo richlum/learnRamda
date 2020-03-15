@@ -84,9 +84,15 @@ const dynmprop = R.curry( (x) => {
 const newrowx = R.map(dynmprop('math'))(grades)
 
 const rowxfunc = (rowkeys) => {
-  return rowkeys.map ( rowkey => { 
-    return R.map(R.prop(rowkey))
+  return rowkeys.map ( rowkey => {
+     return R.compose(
+        R.tap(log('rowfunc---')),
+        R.insert(0,rowkey),
+        R.map(R.prop(rowkey))   // array of functions to apply to 
+     )
   })
+  
+
 }
 const rowxfuncs = rowxfunc(rowkeys)
 
@@ -106,17 +112,27 @@ console.log('rowxtst-type' , R.type(rowx[1]))
 console.log('row1', row1(grades))
 console.log('rowx', rowx)
 
-const allrows = [row1,...rowx]
+//const allrows = [row1,...rowx]
+const allrows = [row1,...rowxfuncs]
 console.log('allrows', allrows)
 
-const imatrix =  () => {
+function imatrix() {
   console.log('imatrix ', arguments.length)
-  return arguments;
+  let theargs = Array.from (arguments)
+  let thelist = []
+  let cnt = 0
+  theargs.forEach( el => {
+    console.log(cnt++, " : ", R.type(el))
+    if (R.type(el)!=='function') console.log("======", el)
+    thelist.push(el)
+  })
+
+  return thelist;
 }
 
 
 const finalmatrix = R.converge(imatrix,allrows)
-//console.log('allrows', finalmatrix(grades))
+console.log('allrows', finalmatrix(grades))
 
 
 console.log('peek',

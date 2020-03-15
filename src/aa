@@ -1,0 +1,3686 @@
+29.2
+90
+names [ 'john', 'mary', 'archie' ]
+gradekeys [ [ 'name', 'age', 'math', 'english', 'art', 'history', 'auto' ],
+  [ 'name', 'age', 'math', 'english', 'art', 'history', 'music' ],
+  [ 'name', 'age', 'math', 'english', 'art', 'history', 'philosophy' ] ]
+rowkeys [ 'age',
+  'art',
+  'auto',
+  'english',
+  'history',
+  'math',
+  'music',
+  'philosophy' ]
+row1tst [ 'john', 'mary', 'archie' ]
+rowx-- [ 'age',
+  'art',
+  'auto',
+  'english',
+  'history',
+  'math',
+  'music',
+  'philosophy' ]
+rowxfuncs 8
+rowxfuncs type Array
+rowxfuncs Function
+[ 'art', 66, 86, 81 ]
+newrowx [ 80, 77, 47 ]
+rowxtst undefined
+rowxtst[1] 86
+rowxtst-type Function
+row1 [ 'john', 'mary', 'archie' ]
+rowx [ [Function: f1],
+  [Function: f1],
+  [Function: f1],
+  [Function: f1],
+  [Function: f1],
+  [Function: f1],
+  [Function: f1],
+  [Function: f1] ]
+allrows [ [Function: f1],
+  [Function],
+  [Function],
+  [Function],
+  [Function],
+  [Function],
+  [Function],
+  [Function],
+  [Function] ]
+imatrix  5
+0 ' : ' {}
+1 ' : ' { [Function: require]
+  resolve: { [Function: resolve] paths: [Function: paths] },
+  main:
+   Module {
+     id: '.',
+     exports: {},
+     parent: null,
+     filename: 'C:\\xmount\\myramda\\src\\myconverge.js',
+     loaded: false,
+     children: [ [Module] ],
+     paths:
+      [ 'C:\\xmount\\myramda\\src\\node_modules',
+        'C:\\xmount\\myramda\\node_modules',
+        'C:\\xmount\\node_modules',
+        'C:\\node_modules' ] },
+  extensions:
+   [Object: null prototype] { '.js': [Function], '.json': [Function], '.node': [Function] },
+  cache:
+   [Object: null prototype] {
+     'C:\\xmount\\myramda\\src\\myconverge.js':
+      Module {
+        id: '.',
+        exports: {},
+        parent: null,
+        filename: 'C:\\xmount\\myramda\\src\\myconverge.js',
+        loaded: false,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\index.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\index.js',
+        exports: [Object],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\index.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\F.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\F.js',
+        exports: [Function: F],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\F.js',
+        loaded: true,
+        children: [],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\T.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\T.js',
+        exports: [Function: T],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\T.js',
+        loaded: true,
+        children: [],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\__.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\__.js',
+        exports: [Object],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\__.js',
+        loaded: true,
+        children: [],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\add.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\add.js',
+        exports: [Function: f2],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\add.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_curry2.js':
+      Module {
+        id:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_curry2.js',
+        exports: [Function: _curry2],
+        parent: [Module],
+        filename:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_curry2.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_curry1.js':
+      Module {
+        id:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_curry1.js',
+        exports: [Function: _curry1],
+        parent: [Module],
+        filename:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_curry1.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_isPlaceholder.js':
+      Module {
+        id:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_isPlaceholder.js',
+        exports: [Function: _isPlaceholder],
+        parent: [Module],
+        filename:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_isPlaceholder.js',
+        loaded: true,
+        children: [],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\addIndex.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\addIndex.js',
+        exports: [Function: f1],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\addIndex.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_concat.js':
+      Module {
+        id:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_concat.js',
+        exports: [Function: _concat],
+        parent: [Module],
+        filename:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_concat.js',
+        loaded: true,
+        children: [],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\curryN.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\curryN.js',
+        exports: [Function: f2],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\curryN.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_arity.js':
+      Module {
+        id:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_arity.js',
+        exports: [Function: _arity],
+        parent: [Module],
+        filename:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_arity.js',
+        loaded: true,
+        children: [],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_curryN.js':
+      Module {
+        id:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_curryN.js',
+        exports: [Function: _curryN],
+        parent: [Module],
+        filename:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_curryN.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\adjust.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\adjust.js',
+        exports: [Function: f3],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\adjust.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_curry3.js':
+      Module {
+        id:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_curry3.js',
+        exports: [Function: _curry3],
+        parent: [Module],
+        filename:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_curry3.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\all.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\all.js',
+        exports: [Function: f2],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\all.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_dispatchable.js':
+      Module {
+        id:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_dispatchable.js',
+        exports: [Function: _dispatchable],
+        parent: [Module],
+        filename:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_dispatchable.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_isArray.js':
+      Module {
+        id:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_isArray.js',
+        exports: [Function: isArray],
+        parent: [Module],
+        filename:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_isArray.js',
+        loaded: true,
+        children: [],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_isTransformer.js':
+      Module {
+        id:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_isTransformer.js',
+        exports: [Function: _isTransformer],
+        parent: [Module],
+        filename:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_isTransformer.js',
+        loaded: true,
+        children: [],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_xall.js':
+      Module {
+        id:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_xall.js',
+        exports: [Function: f2],
+        parent: [Module],
+        filename:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_xall.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_reduced.js':
+      Module {
+        id:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_reduced.js',
+        exports: [Function: _reduced],
+        parent: [Module],
+        filename:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_reduced.js',
+        loaded: true,
+        children: [],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_xfBase.js':
+      Module {
+        id:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_xfBase.js',
+        exports: [Object],
+        parent: [Module],
+        filename:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_xfBase.js',
+        loaded: true,
+        children: [],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\allPass.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\allPass.js',
+        exports: [Function: f1],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\allPass.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\max.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\max.js',
+        exports: [Function: f2],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\max.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\pluck.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\pluck.js',
+        exports: [Function: f2],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\pluck.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\map.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\map.js',
+        exports: [Function: f2],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\map.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_map.js':
+      Module {
+        id:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_map.js',
+        exports: [Function: _map],
+        parent: [Module],
+        filename:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_map.js',
+        loaded: true,
+        children: [],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_reduce.js':
+      Module {
+        id:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_reduce.js',
+        exports: [Function: _reduce],
+        parent: [Module],
+        filename:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_reduce.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_isArrayLike.js':
+      Module {
+        id:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_isArrayLike.js',
+        exports: [Function: f1],
+        parent: [Module],
+        filename:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_isArrayLike.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_isString.js':
+      Module {
+        id:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_isString.js',
+        exports: [Function: _isString],
+        parent: [Module],
+        filename:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_isString.js',
+        loaded: true,
+        children: [],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_xwrap.js':
+      Module {
+        id:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_xwrap.js',
+        exports: [Function: _xwrap],
+        parent: [Module],
+        filename:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_xwrap.js',
+        loaded: true,
+        children: [],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\bind.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\bind.js',
+        exports: [Function: f2],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\bind.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_xmap.js':
+      Module {
+        id:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_xmap.js',
+        exports: [Function: f2],
+        parent: [Module],
+        filename:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_xmap.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\keys.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\keys.js',
+        exports: [Function: f1],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\keys.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_has.js':
+      Module {
+        id:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_has.js',
+        exports: [Function: _has],
+        parent: [Module],
+        filename:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_has.js',
+        loaded: true,
+        children: [],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_isArguments.js':
+      Module {
+        id:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_isArguments.js',
+        exports: [Function: _isArguments],
+        parent: [Module],
+        filename:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_isArguments.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\prop.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\prop.js',
+        exports: [Function: f2],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\prop.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\path.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\path.js',
+        exports: [Function: f2],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\path.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\reduce.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\reduce.js',
+        exports: [Function: f3],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\reduce.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\always.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\always.js',
+        exports: [Function: f1],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\always.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\and.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\and.js',
+        exports: [Function: f2],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\and.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\any.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\any.js',
+        exports: [Function: f2],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\any.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_xany.js':
+      Module {
+        id:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_xany.js',
+        exports: [Function: f2],
+        parent: [Module],
+        filename:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_xany.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\anyPass.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\anyPass.js',
+        exports: [Function: f1],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\anyPass.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\ap.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\ap.js',
+        exports: [Function: f2],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\ap.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\aperture.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\aperture.js',
+        exports: [Function: f2],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\aperture.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_aperture.js':
+      Module {
+        id:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_aperture.js',
+        exports: [Function: _aperture],
+        parent: [Module],
+        filename:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_aperture.js',
+        loaded: true,
+        children: [],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_xaperture.js':
+      Module {
+        id:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_xaperture.js',
+        exports: [Function: f2],
+        parent: [Module],
+        filename:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_xaperture.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\append.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\append.js',
+        exports: [Function: f2],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\append.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\apply.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\apply.js',
+        exports: [Function: f2],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\apply.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\applySpec.js':
+      Module {
+        id:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\applySpec.js',
+        exports: [Function: f1],
+        parent: [Module],
+        filename:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\applySpec.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\values.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\values.js',
+        exports: [Function: f1],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\values.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\applyTo.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\applyTo.js',
+        exports: [Function: f2],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\applyTo.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\ascend.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\ascend.js',
+        exports: [Function: f3],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\ascend.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\assoc.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\assoc.js',
+        exports: [Function: f3],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\assoc.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\assocPath.js':
+      Module {
+        id:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\assocPath.js',
+        exports: [Function: f3],
+        parent: [Module],
+        filename:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\assocPath.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_isInteger.js':
+      Module {
+        id:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_isInteger.js',
+        exports: [Function: isInteger],
+        parent: [Module],
+        filename:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_isInteger.js',
+        loaded: true,
+        children: [],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\isNil.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\isNil.js',
+        exports: [Function: f1],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\isNil.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\binary.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\binary.js',
+        exports: [Function: f1],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\binary.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\nAry.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\nAry.js',
+        exports: [Function: f2],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\nAry.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\both.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\both.js',
+        exports: [Function: f2],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\both.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_isFunction.js':
+      Module {
+        id:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_isFunction.js',
+        exports: [Function: _isFunction],
+        parent: [Module],
+        filename:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_isFunction.js',
+        loaded: true,
+        children: [],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\lift.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\lift.js',
+        exports: [Function: f1],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\lift.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\liftN.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\liftN.js',
+        exports: [Function: f2],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\liftN.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\call.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\call.js',
+        exports: [Function: f1],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\call.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\curry.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\curry.js',
+        exports: [Function: f1],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\curry.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\chain.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\chain.js',
+        exports: [Function: f2],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\chain.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_makeFlat.js':
+      Module {
+        id:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_makeFlat.js',
+        exports: [Function: _makeFlat],
+        parent: [Module],
+        filename:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_makeFlat.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_xchain.js':
+      Module {
+        id:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_xchain.js',
+        exports: [Function: f2],
+        parent: [Module],
+        filename:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_xchain.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_flatCat.js':
+      Module {
+        id:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_flatCat.js',
+        exports: [Function: _xcat],
+        parent: [Module],
+        filename:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_flatCat.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_forceReduced.js':
+      Module {
+        id:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_forceReduced.js',
+        exports: [Function: _forceReduced],
+        parent: [Module],
+        filename:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_forceReduced.js',
+        loaded: true,
+        children: [],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\clamp.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\clamp.js',
+        exports: [Function: f3],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\clamp.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\clone.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\clone.js',
+        exports: [Function: f1],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\clone.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_clone.js':
+      Module {
+        id:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_clone.js',
+        exports: [Function: _clone],
+        parent: [Module],
+        filename:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_clone.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_cloneRegExp.js':
+      Module {
+        id:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_cloneRegExp.js',
+        exports: [Function: _cloneRegExp],
+        parent: [Module],
+        filename:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_cloneRegExp.js',
+        loaded: true,
+        children: [],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\type.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\type.js',
+        exports: [Function: f1],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\type.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\comparator.js':
+      Module {
+        id:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\comparator.js',
+        exports: [Function: f1],
+        parent: [Module],
+        filename:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\comparator.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\complement.js':
+      Module {
+        id:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\complement.js',
+        exports: [Function: f1],
+        parent: [Module],
+        filename:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\complement.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\not.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\not.js',
+        exports: [Function: f1],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\not.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\compose.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\compose.js',
+        exports: [Function: compose],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\compose.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\pipe.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\pipe.js',
+        exports: [Function: pipe],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\pipe.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_pipe.js':
+      Module {
+        id:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_pipe.js',
+        exports: [Function: _pipe],
+        parent: [Module],
+        filename:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_pipe.js',
+        loaded: true,
+        children: [],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\tail.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\tail.js',
+        exports: [Function: f1],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\tail.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_checkForMethod.js':
+      Module {
+        id:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_checkForMethod.js',
+        exports: [Function: _checkForMethod],
+        parent: [Module],
+        filename:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_checkForMethod.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\slice.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\slice.js',
+        exports: [Function: f3],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\slice.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\reverse.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\reverse.js',
+        exports: [Function: f1],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\reverse.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\composeK.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\composeK.js',
+        exports: [Function: composeK],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\composeK.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\composeP.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\composeP.js',
+        exports: [Function: composeP],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\composeP.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\pipeP.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\pipeP.js',
+        exports: [Function: pipeP],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\pipeP.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_pipeP.js':
+      Module {
+        id:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_pipeP.js',
+        exports: [Function: _pipeP],
+        parent: [Module],
+        filename:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_pipeP.js',
+        loaded: true,
+        children: [],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\composeWith.js':
+      Module {
+        id:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\composeWith.js',
+        exports: [Function: f2],
+        parent: [Module],
+        filename:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\composeWith.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\pipeWith.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\pipeWith.js',
+        exports: [Function: f2],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\pipeWith.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\head.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\head.js',
+        exports: [Function: f1],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\head.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\nth.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\nth.js',
+        exports: [Function: f2],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\nth.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\identity.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\identity.js',
+        exports: [Function: f1],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\identity.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_identity.js':
+      Module {
+        id:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_identity.js',
+        exports: [Function: _identity],
+        parent: [Module],
+        filename:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_identity.js',
+        loaded: true,
+        children: [],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\concat.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\concat.js',
+        exports: [Function: f2],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\concat.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\toString.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\toString.js',
+        exports: [Function: f1],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\toString.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_toString.js':
+      Module {
+        id:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_toString.js',
+        exports: [Function: _toString],
+        parent: [Module],
+        filename:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_toString.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_includes.js':
+      Module {
+        id:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_includes.js',
+        exports: [Function: _includes],
+        parent: [Module],
+        filename:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_includes.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_indexOf.js':
+      Module {
+        id:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_indexOf.js',
+        exports: [Function: _indexOf],
+        parent: [Module],
+        filename:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_indexOf.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\equals.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\equals.js',
+        exports: [Function: f2],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\equals.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_equals.js':
+      Module {
+        id:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_equals.js',
+        exports: [Function: _equals],
+        parent: [Module],
+        filename:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_equals.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_arrayFromIterator.js':
+      Module {
+        id:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_arrayFromIterator.js',
+        exports: [Function: _arrayFromIterator],
+        parent: [Module],
+        filename:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_arrayFromIterator.js',
+        loaded: true,
+        children: [],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_includesWith.js':
+      Module {
+        id:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_includesWith.js',
+        exports: [Function: _includesWith],
+        parent: [Module],
+        filename:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_includesWith.js',
+        loaded: true,
+        children: [],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_functionName.js':
+      Module {
+        id:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_functionName.js',
+        exports: [Function: _functionName],
+        parent: [Module],
+        filename:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_functionName.js',
+        loaded: true,
+        children: [],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_objectIs.js':
+      Module {
+        id:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_objectIs.js',
+        exports: [Function: is],
+        parent: [Module],
+        filename:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_objectIs.js',
+        loaded: true,
+        children: [],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_quote.js':
+      Module {
+        id:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_quote.js',
+        exports: [Function: _quote],
+        parent: [Module],
+        filename:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_quote.js',
+        loaded: true,
+        children: [],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_toISOString.js':
+      Module {
+        id:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_toISOString.js',
+        exports: [Function: _toISOString],
+        parent: [Module],
+        filename:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_toISOString.js',
+        loaded: true,
+        children: [],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\reject.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\reject.js',
+        exports: [Function: f2],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\reject.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_complement.js':
+      Module {
+        id:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_complement.js',
+        exports: [Function: _complement],
+        parent: [Module],
+        filename:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_complement.js',
+        loaded: true,
+        children: [],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\filter.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\filter.js',
+        exports: [Function: f2],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\filter.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_filter.js':
+      Module {
+        id:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_filter.js',
+        exports: [Function: _filter],
+        parent: [Module],
+        filename:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_filter.js',
+        loaded: true,
+        children: [],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_isObject.js':
+      Module {
+        id:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_isObject.js',
+        exports: [Function: _isObject],
+        parent: [Module],
+        filename:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_isObject.js',
+        loaded: true,
+        children: [],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_xfilter.js':
+      Module {
+        id:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_xfilter.js',
+        exports: [Function: f2],
+        parent: [Module],
+        filename:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_xfilter.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\cond.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\cond.js',
+        exports: [Function: f1],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\cond.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\construct.js':
+      Module {
+        id:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\construct.js',
+        exports: [Function: f1],
+        parent: [Module],
+        filename:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\construct.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\constructN.js':
+      Module {
+        id:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\constructN.js',
+        exports: [Function: f2],
+        parent: [Module],
+        filename:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\constructN.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\contains.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\contains.js',
+        exports: [Function: f2],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\contains.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\converge.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\converge.js',
+        exports: [Function: f2],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\converge.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\countBy.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\countBy.js',
+        exports: [Function],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\countBy.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\reduceBy.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\reduceBy.js',
+        exports: [Function],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\reduceBy.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_xreduceBy.js':
+      Module {
+        id:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_xreduceBy.js',
+        exports: [Function],
+        parent: [Module],
+        filename:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_xreduceBy.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\dec.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\dec.js',
+        exports: [Function: f1],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\dec.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\defaultTo.js':
+      Module {
+        id:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\defaultTo.js',
+        exports: [Function: f2],
+        parent: [Module],
+        filename:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\defaultTo.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\descend.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\descend.js',
+        exports: [Function: f3],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\descend.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\difference.js':
+      Module {
+        id:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\difference.js',
+        exports: [Function: f2],
+        parent: [Module],
+        filename:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\difference.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_Set.js':
+      Module {
+        id:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_Set.js',
+        exports: [Function: _Set],
+        parent: [Module],
+        filename:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_Set.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\differenceWith.js':
+      Module {
+        id:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\differenceWith.js',
+        exports: [Function: f3],
+        parent: [Module],
+        filename:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\differenceWith.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\dissoc.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\dissoc.js',
+        exports: [Function: f2],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\dissoc.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\dissocPath.js':
+      Module {
+        id:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\dissocPath.js',
+        exports: [Function: f2],
+        parent: [Module],
+        filename:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\dissocPath.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\remove.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\remove.js',
+        exports: [Function: f3],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\remove.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\update.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\update.js',
+        exports: [Function: f3],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\update.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\divide.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\divide.js',
+        exports: [Function: f2],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\divide.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\drop.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\drop.js',
+        exports: [Function: f2],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\drop.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_xdrop.js':
+      Module {
+        id:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_xdrop.js',
+        exports: [Function: f2],
+        parent: [Module],
+        filename:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_xdrop.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\dropLast.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\dropLast.js',
+        exports: [Function: f2],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\dropLast.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_dropLast.js':
+      Module {
+        id:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_dropLast.js',
+        exports: [Function: dropLast],
+        parent: [Module],
+        filename:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_dropLast.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\take.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\take.js',
+        exports: [Function: f2],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\take.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_xtake.js':
+      Module {
+        id:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_xtake.js',
+        exports: [Function: f2],
+        parent: [Module],
+        filename:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_xtake.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_xdropLast.js':
+      Module {
+        id:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_xdropLast.js',
+        exports: [Function: f2],
+        parent: [Module],
+        filename:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_xdropLast.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\dropLastWhile.js':
+      Module {
+        id:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\dropLastWhile.js',
+        exports: [Function: f2],
+        parent: [Module],
+        filename:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\dropLastWhile.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_dropLastWhile.js':
+      Module {
+        id:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_dropLastWhile.js',
+        exports: [Function: dropLastWhile],
+        parent: [Module],
+        filename:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_dropLastWhile.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_xdropLastWhile.js':
+      Module {
+        id:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_xdropLastWhile.js',
+        exports: [Function: f2],
+        parent: [Module],
+        filename:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_xdropLastWhile.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\dropRepeats.js':
+      Module {
+        id:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\dropRepeats.js',
+        exports: [Function: f1],
+        parent: [Module],
+        filename:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\dropRepeats.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_xdropRepeatsWith.js':
+      Module {
+        id:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_xdropRepeatsWith.js',
+        exports: [Function: f2],
+        parent: [Module],
+        filename:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_xdropRepeatsWith.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\dropRepeatsWith.js':
+      Module {
+        id:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\dropRepeatsWith.js',
+        exports: [Function: f2],
+        parent: [Module],
+        filename:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\dropRepeatsWith.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\last.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\last.js',
+        exports: [Function: f1],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\last.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\dropWhile.js':
+      Module {
+        id:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\dropWhile.js',
+        exports: [Function: f2],
+        parent: [Module],
+        filename:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\dropWhile.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_xdropWhile.js':
+      Module {
+        id:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_xdropWhile.js',
+        exports: [Function: f2],
+        parent: [Module],
+        filename:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_xdropWhile.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\either.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\either.js',
+        exports: [Function: f2],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\either.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\or.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\or.js',
+        exports: [Function: f2],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\or.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\empty.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\empty.js',
+        exports: [Function: f1],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\empty.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\endsWith.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\endsWith.js',
+        exports: [Function: f2],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\endsWith.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\takeLast.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\takeLast.js',
+        exports: [Function: f2],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\takeLast.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\eqBy.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\eqBy.js',
+        exports: [Function: f3],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\eqBy.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\eqProps.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\eqProps.js',
+        exports: [Function: f3],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\eqProps.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\evolve.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\evolve.js',
+        exports: [Function: f2],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\evolve.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\find.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\find.js',
+        exports: [Function: f2],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\find.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_xfind.js':
+      Module {
+        id:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_xfind.js',
+        exports: [Function: f2],
+        parent: [Module],
+        filename:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_xfind.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\findIndex.js':
+      Module {
+        id:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\findIndex.js',
+        exports: [Function: f2],
+        parent: [Module],
+        filename:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\findIndex.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_xfindIndex.js':
+      Module {
+        id:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_xfindIndex.js',
+        exports: [Function: f2],
+        parent: [Module],
+        filename:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_xfindIndex.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\findLast.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\findLast.js',
+        exports: [Function: f2],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\findLast.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_xfindLast.js':
+      Module {
+        id:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_xfindLast.js',
+        exports: [Function: f2],
+        parent: [Module],
+        filename:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_xfindLast.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\findLastIndex.js':
+      Module {
+        id:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\findLastIndex.js',
+        exports: [Function: f2],
+        parent: [Module],
+        filename:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\findLastIndex.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_xfindLastIndex.js':
+      Module {
+        id:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_xfindLastIndex.js',
+        exports: [Function: f2],
+        parent: [Module],
+        filename:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_xfindLastIndex.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\flatten.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\flatten.js',
+        exports: [Function: f1],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\flatten.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\flip.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\flip.js',
+        exports: [Function: f1],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\flip.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\forEach.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\forEach.js',
+        exports: [Function: f2],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\forEach.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\forEachObjIndexed.js':
+      Module {
+        id:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\forEachObjIndexed.js',
+        exports: [Function: f2],
+        parent: [Module],
+        filename:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\forEachObjIndexed.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\fromPairs.js':
+      Module {
+        id:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\fromPairs.js',
+        exports: [Function: f1],
+        parent: [Module],
+        filename:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\fromPairs.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\groupBy.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\groupBy.js',
+        exports: [Function: f2],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\groupBy.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\groupWith.js':
+      Module {
+        id:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\groupWith.js',
+        exports: [Function: f2],
+        parent: [Module],
+        filename:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\groupWith.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\gt.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\gt.js',
+        exports: [Function: f2],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\gt.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\gte.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\gte.js',
+        exports: [Function: f2],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\gte.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\has.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\has.js',
+        exports: [Function: f2],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\has.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\hasPath.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\hasPath.js',
+        exports: [Function: f2],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\hasPath.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\hasIn.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\hasIn.js',
+        exports: [Function: f2],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\hasIn.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\identical.js':
+      Module {
+        id:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\identical.js',
+        exports: [Function: f2],
+        parent: [Module],
+        filename:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\identical.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\ifElse.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\ifElse.js',
+        exports: [Function: f3],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\ifElse.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\inc.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\inc.js',
+        exports: [Function: f1],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\inc.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\includes.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\includes.js',
+        exports: [Function: f2],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\includes.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\indexBy.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\indexBy.js',
+        exports: [Function],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\indexBy.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\indexOf.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\indexOf.js',
+        exports: [Function: f2],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\indexOf.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\init.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\init.js',
+        exports: [Function: f1],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\init.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\innerJoin.js':
+      Module {
+        id:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\innerJoin.js',
+        exports: [Function: f3],
+        parent: [Module],
+        filename:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\innerJoin.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\insert.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\insert.js',
+        exports: [Function: f3],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\insert.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\insertAll.js':
+      Module {
+        id:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\insertAll.js',
+        exports: [Function: f3],
+        parent: [Module],
+        filename:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\insertAll.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\intersection.js':
+      Module {
+        id:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\intersection.js',
+        exports: [Function: f2],
+        parent: [Module],
+        filename:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\intersection.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\uniq.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\uniq.js',
+        exports: [Function: f1],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\uniq.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\uniqBy.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\uniqBy.js',
+        exports: [Function: f2],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\uniqBy.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\intersperse.js':
+      Module {
+        id:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\intersperse.js',
+        exports: [Function: f2],
+        parent: [Module],
+        filename:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\intersperse.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\into.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\into.js',
+        exports: [Function: f3],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\into.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_stepCat.js':
+      Module {
+        id:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_stepCat.js',
+        exports: [Function: _stepCat],
+        parent: [Module],
+        filename:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_stepCat.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_objectAssign.js':
+      Module {
+        id:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_objectAssign.js',
+        exports: [Function: assign],
+        parent: [Module],
+        filename:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_objectAssign.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\objOf.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\objOf.js',
+        exports: [Function: f2],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\objOf.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\invert.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\invert.js',
+        exports: [Function: f1],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\invert.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\invertObj.js':
+      Module {
+        id:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\invertObj.js',
+        exports: [Function: f1],
+        parent: [Module],
+        filename:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\invertObj.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\invoker.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\invoker.js',
+        exports: [Function: f2],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\invoker.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\is.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\is.js',
+        exports: [Function: f2],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\is.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\isEmpty.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\isEmpty.js',
+        exports: [Function: f1],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\isEmpty.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\join.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\join.js',
+        exports: [Function],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\join.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\juxt.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\juxt.js',
+        exports: [Function: f1],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\juxt.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\keysIn.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\keysIn.js',
+        exports: [Function: f1],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\keysIn.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\lastIndexOf.js':
+      Module {
+        id:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\lastIndexOf.js',
+        exports: [Function: f2],
+        parent: [Module],
+        filename:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\lastIndexOf.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\length.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\length.js',
+        exports: [Function: f1],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\length.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_isNumber.js':
+      Module {
+        id:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_isNumber.js',
+        exports: [Function: _isNumber],
+        parent: [Module],
+        filename:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_isNumber.js',
+        loaded: true,
+        children: [],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\lens.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\lens.js',
+        exports: [Function: f2],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\lens.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\lensIndex.js':
+      Module {
+        id:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\lensIndex.js',
+        exports: [Function: f1],
+        parent: [Module],
+        filename:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\lensIndex.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\lensPath.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\lensPath.js',
+        exports: [Function: f1],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\lensPath.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\lensProp.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\lensProp.js',
+        exports: [Function: f1],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\lensProp.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\lt.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\lt.js',
+        exports: [Function: f2],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\lt.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\lte.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\lte.js',
+        exports: [Function: f2],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\lte.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\mapAccum.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\mapAccum.js',
+        exports: [Function: f3],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\mapAccum.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\mapAccumRight.js':
+      Module {
+        id:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\mapAccumRight.js',
+        exports: [Function: f3],
+        parent: [Module],
+        filename:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\mapAccumRight.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\mapObjIndexed.js':
+      Module {
+        id:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\mapObjIndexed.js',
+        exports: [Function: f2],
+        parent: [Module],
+        filename:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\mapObjIndexed.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\match.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\match.js',
+        exports: [Function: f2],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\match.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\mathMod.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\mathMod.js',
+        exports: [Function: f2],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\mathMod.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\maxBy.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\maxBy.js',
+        exports: [Function: f3],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\maxBy.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\mean.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\mean.js',
+        exports: [Function: f1],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\mean.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\sum.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\sum.js',
+        exports: [Function: f1],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\sum.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\median.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\median.js',
+        exports: [Function: f1],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\median.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\memoizeWith.js':
+      Module {
+        id:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\memoizeWith.js',
+        exports: [Function: f2],
+        parent: [Module],
+        filename:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\memoizeWith.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\merge.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\merge.js',
+        exports: [Function: f2],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\merge.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\mergeAll.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\mergeAll.js',
+        exports: [Function: f1],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\mergeAll.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\mergeDeepLeft.js':
+      Module {
+        id:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\mergeDeepLeft.js',
+        exports: [Function: f2],
+        parent: [Module],
+        filename:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\mergeDeepLeft.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\mergeDeepWithKey.js':
+      Module {
+        id:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\mergeDeepWithKey.js',
+        exports: [Function: f3],
+        parent: [Module],
+        filename:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\mergeDeepWithKey.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\mergeWithKey.js':
+      Module {
+        id:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\mergeWithKey.js',
+        exports: [Function: f3],
+        parent: [Module],
+        filename:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\mergeWithKey.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\mergeDeepRight.js':
+      Module {
+        id:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\mergeDeepRight.js',
+        exports: [Function: f2],
+        parent: [Module],
+        filename:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\mergeDeepRight.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\mergeDeepWith.js':
+      Module {
+        id:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\mergeDeepWith.js',
+        exports: [Function: f3],
+        parent: [Module],
+        filename:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\mergeDeepWith.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\mergeLeft.js':
+      Module {
+        id:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\mergeLeft.js',
+        exports: [Function: f2],
+        parent: [Module],
+        filename:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\mergeLeft.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\mergeRight.js':
+      Module {
+        id:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\mergeRight.js',
+        exports: [Function: f2],
+        parent: [Module],
+        filename:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\mergeRight.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\mergeWith.js':
+      Module {
+        id:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\mergeWith.js',
+        exports: [Function: f3],
+        parent: [Module],
+        filename:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\mergeWith.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\min.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\min.js',
+        exports: [Function: f2],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\min.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\minBy.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\minBy.js',
+        exports: [Function: f3],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\minBy.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\modulo.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\modulo.js',
+        exports: [Function: f2],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\modulo.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\move.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\move.js',
+        exports: [Function: f3],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\move.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\multiply.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\multiply.js',
+        exports: [Function: f2],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\multiply.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\negate.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\negate.js',
+        exports: [Function: f1],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\negate.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\none.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\none.js',
+        exports: [Function: f2],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\none.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\nthArg.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\nthArg.js',
+        exports: [Function: f1],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\nthArg.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\o.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\o.js',
+        exports: [Function: f3],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\o.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\of.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\of.js',
+        exports: [Function: f1],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\of.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_of.js':
+      Module {
+        id:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_of.js',
+        exports: [Function: _of],
+        parent: [Module],
+        filename:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_of.js',
+        loaded: true,
+        children: [],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\omit.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\omit.js',
+        exports: [Function: f2],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\omit.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\once.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\once.js',
+        exports: [Function: f1],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\once.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\otherwise.js':
+      Module {
+        id:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\otherwise.js',
+        exports: [Function: f2],
+        parent: [Module],
+        filename:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\otherwise.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_assertPromise.js':
+      Module {
+        id:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_assertPromise.js',
+        exports: [Function: _assertPromise],
+        parent: [Module],
+        filename:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_assertPromise.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\over.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\over.js',
+        exports: [Function: f3],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\over.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\pair.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\pair.js',
+        exports: [Function: f2],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\pair.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\partial.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\partial.js',
+        exports: [Function: f2],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\partial.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_createPartialApplicator.js':
+      Module {
+        id:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_createPartialApplicator.js',
+        exports: [Function: _createPartialApplicator],
+        parent: [Module],
+        filename:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_createPartialApplicator.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\partialRight.js':
+      Module {
+        id:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\partialRight.js',
+        exports: [Function: f2],
+        parent: [Module],
+        filename:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\partialRight.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\partition.js':
+      Module {
+        id:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\partition.js',
+        exports: [Function],
+        parent: [Module],
+        filename:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\partition.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\pathEq.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\pathEq.js',
+        exports: [Function: f3],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\pathEq.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\pathOr.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\pathOr.js',
+        exports: [Function: f3],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\pathOr.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\pathSatisfies.js':
+      Module {
+        id:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\pathSatisfies.js',
+        exports: [Function: f3],
+        parent: [Module],
+        filename:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\pathSatisfies.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\pick.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\pick.js',
+        exports: [Function: f2],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\pick.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\pickAll.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\pickAll.js',
+        exports: [Function: f2],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\pickAll.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\pickBy.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\pickBy.js',
+        exports: [Function: f2],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\pickBy.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\pipeK.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\pipeK.js',
+        exports: [Function: pipeK],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\pipeK.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\prepend.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\prepend.js',
+        exports: [Function: f2],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\prepend.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\product.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\product.js',
+        exports: [Function: f1],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\product.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\project.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\project.js',
+        exports: [Function],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\project.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\useWith.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\useWith.js',
+        exports: [Function: f2],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\useWith.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\propEq.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\propEq.js',
+        exports: [Function: f3],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\propEq.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\propIs.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\propIs.js',
+        exports: [Function: f3],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\propIs.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\propOr.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\propOr.js',
+        exports: [Function: f3],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\propOr.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\propSatisfies.js':
+      Module {
+        id:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\propSatisfies.js',
+        exports: [Function: f3],
+        parent: [Module],
+        filename:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\propSatisfies.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\props.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\props.js',
+        exports: [Function: f2],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\props.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\range.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\range.js',
+        exports: [Function: f2],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\range.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\reduceRight.js':
+      Module {
+        id:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\reduceRight.js',
+        exports: [Function: f3],
+        parent: [Module],
+        filename:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\reduceRight.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\reduceWhile.js':
+      Module {
+        id:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\reduceWhile.js',
+        exports: [Function],
+        parent: [Module],
+        filename:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\reduceWhile.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\reduced.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\reduced.js',
+        exports: [Function: f1],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\reduced.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\repeat.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\repeat.js',
+        exports: [Function: f2],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\repeat.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\times.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\times.js',
+        exports: [Function: f2],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\times.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\replace.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\replace.js',
+        exports: [Function: f3],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\replace.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\scan.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\scan.js',
+        exports: [Function: f3],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\scan.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\sequence.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\sequence.js',
+        exports: [Function: f2],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\sequence.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\set.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\set.js',
+        exports: [Function: f3],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\set.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\sort.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\sort.js',
+        exports: [Function: f2],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\sort.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\sortBy.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\sortBy.js',
+        exports: [Function: f2],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\sortBy.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\sortWith.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\sortWith.js',
+        exports: [Function: f2],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\sortWith.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\split.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\split.js',
+        exports: [Function],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\split.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\splitAt.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\splitAt.js',
+        exports: [Function: f2],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\splitAt.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\splitEvery.js':
+      Module {
+        id:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\splitEvery.js',
+        exports: [Function: f2],
+        parent: [Module],
+        filename:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\splitEvery.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\splitWhen.js':
+      Module {
+        id:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\splitWhen.js',
+        exports: [Function: f2],
+        parent: [Module],
+        filename:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\splitWhen.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\startsWith.js':
+      Module {
+        id:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\startsWith.js',
+        exports: [Function: f2],
+        parent: [Module],
+        filename:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\startsWith.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\subtract.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\subtract.js',
+        exports: [Function: f2],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\subtract.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\symmetricDifference.js':
+      Module {
+        id:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\symmetricDifference.js',
+        exports: [Function: f2],
+        parent: [Module],
+        filename:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\symmetricDifference.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\symmetricDifferenceWith.js':
+      Module {
+        id:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\symmetricDifferenceWith.js',
+        exports: [Function: f3],
+        parent: [Module],
+        filename:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\symmetricDifferenceWith.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\takeLastWhile.js':
+      Module {
+        id:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\takeLastWhile.js',
+        exports: [Function: f2],
+        parent: [Module],
+        filename:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\takeLastWhile.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\takeWhile.js':
+      Module {
+        id:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\takeWhile.js',
+        exports: [Function: f2],
+        parent: [Module],
+        filename:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\takeWhile.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_xtakeWhile.js':
+      Module {
+        id:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_xtakeWhile.js',
+        exports: [Function: f2],
+        parent: [Module],
+        filename:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_xtakeWhile.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\tap.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\tap.js',
+        exports: [Function: f2],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\tap.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_xtap.js':
+      Module {
+        id:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_xtap.js',
+        exports: [Function: f2],
+        parent: [Module],
+        filename:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_xtap.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\test.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\test.js',
+        exports: [Function: f2],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\test.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_isRegExp.js':
+      Module {
+        id:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_isRegExp.js',
+        exports: [Function: _isRegExp],
+        parent: [Module],
+        filename:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_isRegExp.js',
+        loaded: true,
+        children: [],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\then.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\then.js',
+        exports: [Function: f2],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\then.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\toLower.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\toLower.js',
+        exports: [Function: f1],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\toLower.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\toPairs.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\toPairs.js',
+        exports: [Function: f1],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\toPairs.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\toPairsIn.js':
+      Module {
+        id:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\toPairsIn.js',
+        exports: [Function: f1],
+        parent: [Module],
+        filename:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\toPairsIn.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\toUpper.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\toUpper.js',
+        exports: [Function: f1],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\toUpper.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\transduce.js':
+      Module {
+        id:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\transduce.js',
+        exports: [Function],
+        parent: [Module],
+        filename:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\transduce.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\transpose.js':
+      Module {
+        id:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\transpose.js',
+        exports: [Function: f1],
+        parent: [Module],
+        filename:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\transpose.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\traverse.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\traverse.js',
+        exports: [Function: f3],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\traverse.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\trim.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\trim.js',
+        exports: [Function: f1],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\trim.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\tryCatch.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\tryCatch.js',
+        exports: [Function: f2],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\tryCatch.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\unapply.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\unapply.js',
+        exports: [Function: f1],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\unapply.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\unary.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\unary.js',
+        exports: [Function: f1],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\unary.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\uncurryN.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\uncurryN.js',
+        exports: [Function: f2],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\uncurryN.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\unfold.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\unfold.js',
+        exports: [Function: f2],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\unfold.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\union.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\union.js',
+        exports: [Function: f2],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\union.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\unionWith.js':
+      Module {
+        id:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\unionWith.js',
+        exports: [Function: f3],
+        parent: [Module],
+        filename:
+         'C:\\xmount\\myramda\\node_modules\\ramda\\src\\unionWith.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\uniqWith.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\uniqWith.js',
+        exports: [Function: f2],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\uniqWith.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\unless.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\unless.js',
+        exports: [Function: f3],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\unless.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\unnest.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\unnest.js',
+        exports: [Function: f1],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\unnest.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\until.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\until.js',
+        exports: [Function: f3],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\until.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\valuesIn.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\valuesIn.js',
+        exports: [Function: f1],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\valuesIn.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\view.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\view.js',
+        exports: [Function: f2],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\view.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\when.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\when.js',
+        exports: [Function: f3],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\when.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\where.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\where.js',
+        exports: [Function: f2],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\where.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\whereEq.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\whereEq.js',
+        exports: [Function: f2],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\whereEq.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\without.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\without.js',
+        exports: [Function: f2],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\without.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\xprod.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\xprod.js',
+        exports: [Function: f2],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\xprod.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\zip.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\zip.js',
+        exports: [Function: f2],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\zip.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\zipObj.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\zipObj.js',
+        exports: [Function: f2],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\zipObj.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\zipWith.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\zipWith.js',
+        exports: [Function: f3],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\zipWith.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] },
+     'C:\\xmount\\myramda\\node_modules\\ramda\\src\\thunkify.js':
+      Module {
+        id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\thunkify.js',
+        exports: [Function: f1],
+        parent: [Module],
+        filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\thunkify.js',
+        loaded: true,
+        children: [Array],
+        paths: [Array] } } }
+2 ' : ' Module {
+  id: '.',
+  exports: {},
+  parent: null,
+  filename: 'C:\\xmount\\myramda\\src\\myconverge.js',
+  loaded: false,
+  children:
+   [ Module {
+       id: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\index.js',
+       exports: [Object],
+       parent: [Circular],
+       filename: 'C:\\xmount\\myramda\\node_modules\\ramda\\src\\index.js',
+       loaded: true,
+       children: [Array],
+       paths: [Array] } ],
+  paths:
+   [ 'C:\\xmount\\myramda\\src\\node_modules',
+     'C:\\xmount\\myramda\\node_modules',
+     'C:\\xmount\\node_modules',
+     'C:\\node_modules' ] }
+3 ' : ' 'C:\\xmount\\myramda\\src\\myconverge.js'
+4 ' : ' 'C:\\xmount\\myramda\\src'
+allrows [ {},
+  { [Function: require]
+    resolve: { [Function: resolve] paths: [Function: paths] },
+    main:
+     Module {
+       id: '.',
+       exports: {},
+       parent: null,
+       filename: 'C:\\xmount\\myramda\\src\\myconverge.js',
+       loaded: false,
+       children: [Array],
+       paths: [Array] },
+    extensions:
+     [Object: null prototype] { '.js': [Function], '.json': [Function], '.node': [Function] },
+    cache:
+     [Object: null prototype] {
+       'C:\\xmount\\myramda\\src\\myconverge.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\index.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\F.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\T.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\__.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\add.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_curry2.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_curry1.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_isPlaceholder.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\addIndex.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_concat.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\curryN.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_arity.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_curryN.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\adjust.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_curry3.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\all.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_dispatchable.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_isArray.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_isTransformer.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_xall.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_reduced.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_xfBase.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\allPass.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\max.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\pluck.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\map.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_map.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_reduce.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_isArrayLike.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_isString.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_xwrap.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\bind.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_xmap.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\keys.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_has.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_isArguments.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\prop.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\path.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\reduce.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\always.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\and.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\any.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_xany.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\anyPass.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\ap.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\aperture.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_aperture.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_xaperture.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\append.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\apply.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\applySpec.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\values.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\applyTo.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\ascend.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\assoc.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\assocPath.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_isInteger.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\isNil.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\binary.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\nAry.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\both.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_isFunction.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\lift.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\liftN.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\call.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\curry.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\chain.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_makeFlat.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_xchain.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_flatCat.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_forceReduced.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\clamp.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\clone.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_clone.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_cloneRegExp.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\type.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\comparator.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\complement.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\not.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\compose.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\pipe.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_pipe.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\tail.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_checkForMethod.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\slice.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\reverse.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\composeK.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\composeP.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\pipeP.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_pipeP.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\composeWith.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\pipeWith.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\head.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\nth.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\identity.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_identity.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\concat.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\toString.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_toString.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_includes.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_indexOf.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\equals.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_equals.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_arrayFromIterator.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_includesWith.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_functionName.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_objectIs.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_quote.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_toISOString.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\reject.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_complement.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\filter.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_filter.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_isObject.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_xfilter.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\cond.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\construct.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\constructN.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\contains.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\converge.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\countBy.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\reduceBy.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_xreduceBy.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\dec.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\defaultTo.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\descend.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\difference.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_Set.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\differenceWith.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\dissoc.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\dissocPath.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\remove.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\update.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\divide.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\drop.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_xdrop.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\dropLast.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_dropLast.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\take.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_xtake.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_xdropLast.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\dropLastWhile.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_dropLastWhile.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_xdropLastWhile.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\dropRepeats.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_xdropRepeatsWith.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\dropRepeatsWith.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\last.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\dropWhile.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_xdropWhile.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\either.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\or.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\empty.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\endsWith.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\takeLast.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\eqBy.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\eqProps.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\evolve.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\find.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_xfind.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\findIndex.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_xfindIndex.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\findLast.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_xfindLast.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\findLastIndex.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_xfindLastIndex.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\flatten.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\flip.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\forEach.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\forEachObjIndexed.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\fromPairs.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\groupBy.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\groupWith.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\gt.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\gte.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\has.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\hasPath.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\hasIn.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\identical.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\ifElse.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\inc.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\includes.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\indexBy.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\indexOf.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\init.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\innerJoin.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\insert.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\insertAll.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\intersection.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\uniq.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\uniqBy.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\intersperse.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\into.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_stepCat.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_objectAssign.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\objOf.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\invert.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\invertObj.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\invoker.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\is.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\isEmpty.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\join.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\juxt.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\keysIn.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\lastIndexOf.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\length.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_isNumber.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\lens.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\lensIndex.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\lensPath.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\lensProp.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\lt.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\lte.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\mapAccum.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\mapAccumRight.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\mapObjIndexed.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\match.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\mathMod.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\maxBy.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\mean.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\sum.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\median.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\memoizeWith.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\merge.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\mergeAll.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\mergeDeepLeft.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\mergeDeepWithKey.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\mergeWithKey.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\mergeDeepRight.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\mergeDeepWith.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\mergeLeft.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\mergeRight.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\mergeWith.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\min.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\minBy.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\modulo.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\move.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\multiply.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\negate.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\none.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\nthArg.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\o.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\of.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_of.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\omit.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\once.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\otherwise.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_assertPromise.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\over.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\pair.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\partial.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_createPartialApplicator.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\partialRight.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\partition.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\pathEq.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\pathOr.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\pathSatisfies.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\pick.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\pickAll.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\pickBy.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\pipeK.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\prepend.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\product.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\project.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\useWith.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\propEq.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\propIs.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\propOr.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\propSatisfies.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\props.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\range.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\reduceRight.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\reduceWhile.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\reduced.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\repeat.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\times.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\replace.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\scan.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\sequence.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\set.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\sort.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\sortBy.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\sortWith.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\split.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\splitAt.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\splitEvery.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\splitWhen.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\startsWith.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\subtract.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\symmetricDifference.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\symmetricDifferenceWith.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\takeLastWhile.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\takeWhile.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_xtakeWhile.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\tap.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_xtap.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\test.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\internal\\_isRegExp.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\then.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\toLower.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\toPairs.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\toPairsIn.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\toUpper.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\transduce.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\transpose.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\traverse.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\trim.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\tryCatch.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\unapply.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\unary.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\uncurryN.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\unfold.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\union.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\unionWith.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\uniqWith.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\unless.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\unnest.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\until.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\valuesIn.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\view.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\when.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\where.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\whereEq.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\without.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\xprod.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\zip.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\zipObj.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\zipWith.js': [Module],
+       'C:\\xmount\\myramda\\node_modules\\ramda\\src\\thunkify.js': [Module] } },
+  Module {
+    id: '.',
+    exports: {},
+    parent: null,
+    filename: 'C:\\xmount\\myramda\\src\\myconverge.js',
+    loaded: false,
+    children: [ [Module] ],
+    paths:
+     [ 'C:\\xmount\\myramda\\src\\node_modules',
+       'C:\\xmount\\myramda\\node_modules',
+       'C:\\xmount\\node_modules',
+       'C:\\node_modules' ] },
+  'C:\\xmount\\myramda\\src\\myconverge.js',
+  'C:\\xmount\\myramda\\src' ]
+peek 9
+peekint YODEL yodel YODEL 5
+peeking undefined undefined undefined
+strangeconcat undefined
