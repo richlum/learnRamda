@@ -1,3 +1,4 @@
+const R = require('ramda')
 const { makematrix } = require('./objsToRows.js')
 
 
@@ -29,6 +30,6 @@ const grades = [
   }
 ]
 
-const matrix = makematrix("name","courses")
+const  matrix = makematrix("name","courses",grades)
+console.log('matrix',matrix)
 
-console.log('matrix', matrix(grades))

@@ -41,5 +41,5 @@ const grades = [
  *    eg student names for columns, courses for rows, grades for entries
  *    */
 
-
-console.log(finalmatrix('gender','Courses',grades))
+const matrix = finalmatrix('gender','Courses')
+console.log(matrix(grades))

@@ -1,0 +1,4322 @@
+[
+ {
+  "drfidx": "0",
+  "task": "44255",
+  "drf": "DRF 4204308",
+  "commit": "Commit ID: 7329d05 ",
+  "filename": "get_iw_kyc_setup.p",
+  "module": "api_MFAI",
+  "version": 12100
+ },
+ {
+  "drfidx": "1",
+  "task": "43782",
+  "drf": "DRF 4204308",
+  "commit": "Commit ID: eda8676 ",
+  "filename": "iqgmtix.p",
+  "module": "api_IQAI",
+  "version": 13000
+ },
+ {
+  "drfidx": "2",
+  "task": "44255",
+  "drf": "DRF 4204308",
+  "commit": "Commit ID: 7329d05 ",
+  "filename": "iqgmtix.p",
+  "module": "api_IQAI",
+  "version": 13100
+ },
+ {
+  "drfidx": "3",
+  "task": "44255",
+  "drf": "DRF 4204308",
+  "commit": "Commit ID: 7329d05 ",
+  "filename": "kyc_page.js",
+  "module": "web_DESKTOPJS_mfpr",
+  "version": 12000
+ },
+ {
+  "drfidx": "4",
+  "task": "43782",
+  "drf": "DRF 4204308",
+  "commit": "Commit ID: eda8676 ",
+  "filename": "master_tab.html",
+  "module": "web_DESKTOPHTML_iqpr",
+  "version": 14300
+ },
+ {
+  "drfidx": "5",
+  "task": "43782",
+  "drf": "DRF 4204308",
+  "commit": "Commit ID: eda8676 ",
+  "filename": "mfadiri.w",
+  "module": "wcl_MFPR",
+  "version": 13900
+ },
+ {
+  "drfidx": "6",
+  "task": "44255",
+  "drf": "DRF 4204308",
+  "commit": "Commit ID: 7329d05 ",
+  "filename": "mfadiri.w",
+  "module": "wcl_MFPR",
+  "version": 14000
+ },
+ {
+  "drfidx": "7",
+  "task": "43782",
+  "drf": "DRF 4204308",
+  "commit": "Commit ID: eda8676 ",
+  "filename": "mfgml_x.p",
+  "module": "api_MFAI",
+  "version": 13700
+ },
+ {
+  "drfidx": "8",
+  "task": "44255",
+  "drf": "DRF 4204308",
+  "commit": "Commit ID: 7329d05 ",
+  "filename": "mfgml_x.p",
+  "module": "api_MFAI",
+  "version": 13800
+ },
+ {
+  "drfidx": "9",
+  "task": "43782",
+  "drf": "DRF 4204308",
+  "commit": "Commit ID: eda8676 ",
+  "filename": "mfgum_x.p",
+  "module": "api_MFAI",
+  "version": 18500
+ },
+ {
+  "drfidx": "10",
+  "task": "44255",
+  "drf": "DRF 4204308",
+  "commit": "Commit ID: 7329d05 ",
+  "filename": "mfgum_x.p",
+  "module": "api_MFAI",
+  "version": 18600
+ },
+ {
+  "drfidx": "11",
+  "task": "43782",
+  "drf": "DRF 4204308",
+  "commit": "Commit ID: eda8676 ",
+  "filename": "mfkycl_createkycformfieldsetup.p",
+  "module": "api_MFAI",
+  "version": 11100
+ },
+ {
+  "drfidx": "12",
+  "task": "43782",
+  "drf": "DRF 4204308",
+  "commit": "Commit ID: eda8676 ",
+  "filename": "mfkycl_insertthirdparty_wfm.i",
+  "module": "api_MFAI",
+  "version": 10100
+ },
+ {
+  "drfidx": "13",
+  "task": "44255",
+  "drf": "DRF 4204308",
+  "commit": "Commit ID: 7329d05 ",
+  "filename": "mfkycl_insertthirdparty_wfm.i",
+  "module": "api_MFAI",
+  "version": 10200
+ },
+ {
+  "drfidx": "14",
+  "task": "43782",
+  "drf": "DRF 4204308",
+  "commit": "Commit ID: eda8676 ",
+  "filename": "mfkycl_wsm.p",
+  "module": "api_MFAI",
+  "version": 11600
+ },
+ {
+  "drfidx": "15",
+  "task": "44255",
+  "drf": "DRF 4204308",
+  "commit": "Commit ID: 7329d05 ",
+  "filename": "mfkycl_wsm.p",
+  "module": "api_MFAI",
+  "version": 11800
+ },
+ {
+  "drfidx": "16",
+  "task": "43782",
+  "drf": "DRF 4204308",
+  "commit": "Commit ID: eda8676 ",
+  "filename": "mfvcijo.w",
+  "module": "wcl_MFPR",
+  "version": 10400
+ },
+ {
+  "drfidx": "17",
+  "task": "43782",
+  "drf": "DRF 4204308",
+  "commit": "Commit ID: eda8676 ",
+  "filename": "mfvciri.w",
+  "module": "wcl_MFPR",
+  "version": 15600
+ },
+ {
+  "drfidx": "18",
+  "task": "44255",
+  "drf": "DRF 4204308",
+  "commit": "Commit ID: 7329d05 ",
+  "filename": "mfvciri.w",
+  "module": "wcl_MFPR",
+  "version": 15700
+ },
+ {
+  "drfidx": "0",
+  "task": "42926",
+  "drf": "DRF 4427131",
+  "commit": "Commit ID: 7bc87a7 ",
+  "filename": "buy.htm",
+  "module": "web_BNSPAGES_ob",
+  "version": 11600
+ },
+ {
+  "drfidx": "1",
+  "task": "42926",
+  "drf": "DRF 4427131",
+  "commit": "Commit ID: 7bc87a7 ",
+  "filename": "sell.htm",
+  "module": "web_BNSPAGES_ob",
+  "version": 10400
+ },
+ {
+  "drfidx": "2",
+  "task": "42926",
+  "drf": "DRF 4427131",
+  "commit": "Commit ID: 7bc87a7 ",
+  "filename": "switch.htm",
+  "module": "web_BNSPAGES_ob",
+  "version": 11000
+ },
+ {
+  "drfidx": "0",
+  "task": "43998",
+  "drf": "DRF 4560869",
+  "commit": "Commit ID: 9f93712 ",
+  "filename": "cvbpsnx.p",
+  "module": "exc_CVPR",
+  "version": 12400
+ },
+ {
+  "drfidx": "1",
+  "task": "44660",
+  "drf": "DRF 4560869",
+  "commit": "Commit ID: 3ad6469 ",
+  "filename": "cvbpsnx.p",
+  "module": "exc_CVPR",
+  "version": 12500
+ },
+ {
+  "drfidx": "2",
+  "task": "44660",
+  "drf": "DRF 4560869",
+  "commit": "Commit ID: 3ad6469 ",
+  "filename": "dmr4560869.p",
+  "module": "exc_DMR",
+  "version": 10000
+ },
+ {
+  "drfidx": "0",
+  "task": "44849",
+  "drf": "DRF 4580064",
+  "commit": "Commit ID: ae7d13b ",
+  "filename": "kyc_form_logic.js",
+  "module": "web_DESKTOPMODULE_kyc",
+  "version": 24800
+ },
+ {
+  "drfidx": "0",
+  "task": "44499",
+  "drf": "DRF 4680051",
+  "commit": "Commit ID: f7f82c0 ",
+  "filename": "csiacctfxn.i",
+  "module": "api_AIPR",
+  "version": 10200
+ },
+ {
+  "drfidx": "1",
+  "task": "44499",
+  "drf": "DRF 4680051",
+  "commit": "Commit ID: f7f82c0 ",
+  "filename": "csigetpositions.p",
+  "module": "api_AIPR",
+  "version": 10200
+ },
+ {
+  "drfidx": "0",
+  "task": "45121",
+  "drf": "DRF 4709464",
+  "commit": "Commit ID: 580ad86 ",
+  "filename": "acfx__r.p",
+  "module": "exc_ACPR",
+  "version": 11100
+ },
+ {
+  "drfidx": "1",
+  "task": "44520",
+  "drf": "DRF 4709464",
+  "commit": "Commit ID: 038b966 ",
+  "filename": "acfx__x.p",
+  "module": "exc_ACPR",
+  "version": 10000
+ },
+ {
+  "drfidx": "2",
+  "task": "44520",
+  "drf": "DRF 4709464",
+  "commit": "Commit ID: 038b966 ",
+  "filename": "gngblmx.i",
+  "module": "api_GNAI",
+  "version": 10000
+ },
+ {
+  "drfidx": "3",
+  "task": "44520",
+  "drf": "DRF 4709464",
+  "commit": "Commit ID: 038b966 ",
+  "filename": "rgnmcrx.p",
+  "module": "exc_RGPR",
+  "version": 10000
+ },
+ {
+  "drfidx": "4",
+  "task": "44520",
+  "drf": "DRF 4709464",
+  "commit": "Commit ID: 038b966 ",
+  "filename": "rgnmi2x.p",
+  "module": "exc_RGPR",
+  "version": 10000
+ },
+ {
+  "drfidx": "5",
+  "task": "44520",
+  "drf": "DRF 4709464",
+  "commit": "Commit ID: 038b966 ",
+  "filename": "rgsc9ax.p",
+  "module": "exc_RGPR",
+  "version": 10000
+ },
+ {
+  "drfidx": "0",
+  "task": "44332",
+  "drf": "DRF 4730081",
+  "commit": "Commit ID: 5714525 ",
+  "filename": "omaporx.p",
+  "module": "gui_OMATSW",
+  "version": 12100
+ },
+ {
+  "drfidx": "1",
+  "task": "44342",
+  "drf": "DRF 4730081",
+  "commit": "Commit ID: 0ef4ca2 ",
+  "filename": "omaporx.p",
+  "module": "gui_OMATSW",
+  "version": 12200
+ },
+ {
+  "drfidx": "0",
+  "task": "44797",
+  "drf": "DRF 4735142",
+  "commit": "Commit ID: 08a5bc5 ",
+  "filename": "mutual_fund_ticket.js",
+  "module": "web_DESKTOPJS_ompr",
+  "version": 29400
+ },
+ {
+  "drfidx": "1",
+  "task": "44900",
+  "drf": "DRF 4735142",
+  "commit": "Commit ID: 514bbad ",
+  "filename": "mutual_fund_ticket.js",
+  "module": "web_DESKTOPJS_ompr",
+  "version": 29500
+ },
+ {
+  "drfidx": "2",
+  "task": "44930",
+  "drf": "DRF 4735142",
+  "commit": "Commit ID: 5acee7a ",
+  "filename": "mutual_fund_ticket.js",
+  "module": "web_DESKTOPJS_ompr",
+  "version": 29600
+ },
+ {
+  "drfidx": "3",
+  "task": "44967",
+  "drf": "DRF 4735142",
+  "commit": "Commit ID: 19e89b2 ",
+  "filename": "mutual_fund_ticket.js",
+  "module": "web_DESKTOPJS_ompr",
+  "version": 29700
+ },
+ {
+  "drfidx": "4",
+  "task": "45002",
+  "drf": "DRF 4735142",
+  "commit": "Commit ID: 1284f8f ",
+  "filename": "mutual_fund_ticket.js",
+  "module": "web_DESKTOPJS_ompr",
+  "version": 29800
+ },
+ {
+  "drfidx": "5",
+  "task": "44797",
+  "drf": "DRF 4735142",
+  "commit": "Commit ID: 08a5bc5 ",
+  "filename": "omamfdx.i",
+  "module": "api_OMAI",
+  "version": 12100
+ },
+ {
+  "drfidx": "6",
+  "task": "44797",
+  "drf": "DRF 4735142",
+  "commit": "Commit ID: 08a5bc5 ",
+  "filename": "omamfdx.p",
+  "module": "api_OMAI",
+  "version": 15700
+ },
+ {
+  "drfidx": "7",
+  "task": "44902",
+  "drf": "DRF 4735142",
+  "commit": "Commit ID: 7d545bb ",
+  "filename": "omamfdx.p",
+  "module": "api_OMAI",
+  "version": 16000
+ },
+ {
+  "drfidx": "8",
+  "task": "45002",
+  "drf": "DRF 4735142",
+  "commit": "Commit ID: 1284f8f ",
+  "filename": "omamfdx.p",
+  "module": "api_OMAI",
+  "version": 16100
+ },
+ {
+  "drfidx": "9",
+  "task": "44797",
+  "drf": "DRF 4735142",
+  "commit": "Commit ID: 08a5bc5 ",
+  "filename": "ommfqax.p",
+  "module": "api_OMAI",
+  "version": 10600
+ },
+ {
+  "drfidx": "10",
+  "task": "44836",
+  "drf": "DRF 4735142",
+  "commit": "Commit ID: 4763bb1 ",
+  "filename": "ommfqax.p",
+  "module": "api_OMAI",
+  "version": 10700
+ },
+ {
+  "drfidx": "11",
+  "task": "44797",
+  "drf": "DRF 4735142",
+  "commit": "Commit ID: 08a5bc5 ",
+  "filename": "ommucpx.p",
+  "module": "api_OMAI",
+  "version": 10300
+ },
+ {
+  "drfidx": "12",
+  "task": "44899",
+  "drf": "DRF 4735142",
+  "commit": "Commit ID: c1ea721 ",
+  "filename": "omsurvx.p",
+  "module": "com_OMEDIT",
+  "version": 11300
+ },
+ {
+  "drfidx": "13",
+  "task": "44797",
+  "drf": "DRF 4735142",
+  "commit": "Commit ID: 08a5bc5 ",
+  "filename": "omvmf_x.i",
+  "module": "api_OMAI",
+  "version": 17200
+ },
+ {
+  "drfidx": "14",
+  "task": "44836",
+  "drf": "DRF 4735142",
+  "commit": "Commit ID: 4763bb1 ",
+  "filename": "omvmf_x.i",
+  "module": "api_OMAI",
+  "version": 17300
+ },
+ {
+  "drfidx": "0",
+  "task": "44898",
+  "drf": "DRF 4735430",
+  "commit": "Commit ID: 5a9af3e ",
+  "filename": "accpcsr.p",
+  "module": "api_ACAI",
+  "version": 11100
+ },
+ {
+  "drfidx": "1",
+  "task": "44898",
+  "drf": "DRF 4735430",
+  "commit": "Commit ID: 5a9af3e ",
+  "filename": "accpkyi.w",
+  "module": "wcl_ACPR",
+  "version": 11100
+ },
+ {
+  "drfidx": "2",
+  "task": "44898",
+  "drf": "DRF 4735430",
+  "commit": "Commit ID: 5a9af3e ",
+  "filename": "accptri.w",
+  "module": "wcl_ACPR",
+  "version": 13100
+ },
+ {
+  "drfidx": "3",
+  "task": "44898",
+  "drf": "DRF 4735430",
+  "commit": "Commit ID: 5a9af3e ",
+  "filename": "compliance_kyc_info.html",
+  "module": "web_DESKTOPHTML_mfpr",
+  "version": 10700
+ },
+ {
+  "drfidx": "4",
+  "task": "44898",
+  "drf": "DRF 4735430",
+  "commit": "Commit ID: 5a9af3e ",
+  "filename": "get_compliance_kyc_info.p",
+  "module": "api_IQAI",
+  "version": 10100
+ },
+ {
+  "drfidx": "5",
+  "task": "44898",
+  "drf": "DRF 4735430",
+  "commit": "Commit ID: 5a9af3e ",
+  "filename": "iqgcscx.p",
+  "module": "api_IQAI",
+  "version": 16100
+ },
+ {
+  "drfidx": "6",
+  "task": "44898",
+  "drf": "DRF 4735430",
+  "commit": "Commit ID: 5a9af3e ",
+  "filename": "iqgkyix.p",
+  "module": "api_IQAI",
+  "version": 13000
+ },
+ {
+  "drfidx": "7",
+  "task": "44898",
+  "drf": "DRF 4735430",
+  "commit": "Commit ID: 5a9af3e ",
+  "filename": "iqgmtix.p",
+  "module": "api_IQAI",
+  "version": 13400
+ },
+ {
+  "drfidx": "8",
+  "task": "45082",
+  "drf": "DRF 4735430",
+  "commit": "Commit ID: 52b9286 ",
+  "filename": "iqgmtix.p",
+  "module": "api_IQAI",
+  "version": 13700
+ },
+ {
+  "drfidx": "9",
+  "task": "44898",
+  "drf": "DRF 4735430",
+  "commit": "Commit ID: 5a9af3e ",
+  "filename": "iqkycthx.p",
+  "module": "web_IQPR",
+  "version": 10600
+ },
+ {
+  "drfidx": "10",
+  "task": "44898",
+  "drf": "DRF 4735430",
+  "commit": "Commit ID: 5a9af3e ",
+  "filename": "iqmaski.w",
+  "module": "wcl_IQPR",
+  "version": 13400
+ },
+ {
+  "drfidx": "11",
+  "task": "44898",
+  "drf": "DRF 4735430",
+  "commit": "Commit ID: 5a9af3e ",
+  "filename": "iqmasoi.w",
+  "module": "wcl_IQPR",
+  "version": 10800
+ },
+ {
+  "drfidx": "12",
+  "task": "44898",
+  "drf": "DRF 4735430",
+  "commit": "Commit ID: 5a9af3e ",
+  "filename": "iqpos_i.w",
+  "module": "wcl_IQPR",
+  "version": 20200
+ },
+ {
+  "drfidx": "13",
+  "task": "44898",
+  "drf": "DRF 4735430",
+  "commit": "Commit ID: 5a9af3e ",
+  "filename": "master.js",
+  "module": "web_DESKTOPJS_iqpr",
+  "version": 15200
+ },
+ {
+  "drfidx": "14",
+  "task": "44898",
+  "drf": "DRF 4735430",
+  "commit": "Commit ID: 5a9af3e ",
+  "filename": "master_tab.html",
+  "module": "web_DESKTOPHTML_iqpr",
+  "version": 14500
+ },
+ {
+  "drfidx": "15",
+  "task": "44898",
+  "drf": "DRF 4735430",
+  "commit": "Commit ID: 5a9af3e ",
+  "filename": "mfguf_x.p",
+  "module": "api_MFAI",
+  "version": 11100
+ },
+ {
+  "drfidx": "16",
+  "task": "44898",
+  "drf": "DRF 4735430",
+  "commit": "Commit ID: 5a9af3e ",
+  "filename": "mfti__x.i",
+  "module": "api_MFAI",
+  "version": 11700
+ },
+ {
+  "drfidx": "17",
+  "task": "44898",
+  "drf": "DRF 4735430",
+  "commit": "Commit ID: 5a9af3e ",
+  "filename": "mfvcijo.w",
+  "module": "wcl_MFPR",
+  "version": 10500
+ },
+ {
+  "drfidx": "0",
+  "task": "44497",
+  "drf": "DRF 4778714",
+  "commit": "Commit ID: 9af0365 return correct form on update",
+  "filename": "get_add_account_info.p",
+  "module": "api_MFAI",
+  "version": 12200
+ },
+ {
+  "drfidx": "1",
+  "task": "44181",
+  "drf": "DRF 4778714",
+  "commit": "Commit ID: 52e72a3 make sure networth data is saving to kfyldb.",
+  "filename": "kyc_application_detail.js",
+  "module": "web_DESKTOPMODULE_kyc",
+  "version": 22400
+ },
+ {
+  "drfidx": "2",
+  "task": "44184",
+  "drf": "DRF 4778714",
+  "commit": "Commit ID: c577424 ",
+  "filename": "kyc_application_detail.js",
+  "module": "web_DESKTOPMODULE_kyc",
+  "version": 22500
+ },
+ {
+  "drfidx": "3",
+  "task": "44204",
+  "drf": "DRF 4778714",
+  "commit": "Commit ID: d93c5cc instead of checking if value is not false; check to make sure it's not",
+  "filename": "kyc_application_detail.js",
+  "module": "web_DESKTOPMODULE_kyc",
+  "version": 22700
+ },
+ {
+  "drfidx": "4",
+  "task": "44943",
+  "drf": "DRF 4778714",
+  "commit": "Commit ID: 2db4785 ",
+  "filename": "mfckyca.p",
+  "module": "api_MFAI",
+  "version": 10500
+ },
+ {
+  "drfidx": "5",
+  "task": "44560",
+  "drf": "DRF 4778714",
+  "commit": "Commit ID: 5eb844f ",
+  "filename": "mfkycl_insertplaninfo_pcd.p",
+  "module": "api_MFAI",
+  "version": 12000
+ },
+ {
+  "drfidx": "6",
+  "task": "44721",
+  "drf": "DRF 4778714",
+  "commit": "Commit ID: ba72104 ",
+  "filename": "mfkycl_insertplaninfo_pcd.p",
+  "module": "api_MFAI",
+  "version": 12100
+ },
+ {
+  "drfidx": "7",
+  "task": "44330",
+  "drf": "DRF 4778714",
+  "commit": "Commit ID: e87a363 we were assigning \"O\" instead of \"0\". Oops.",
+  "filename": "mfkycl_pcd.p",
+  "module": "api_MFAI",
+  "version": 14000
+ },
+ {
+  "drfidx": "8",
+  "task": "44262",
+  "drf": "DRF 4778714",
+  "commit": "Commit ID: 59b51b1 convert single numbers from double digits (01; 02; etc) to single digits",
+  "filename": "mfkycl_pcd_entity.p",
+  "module": "api_MFAI",
+  "version": 24100
+ },
+ {
+  "drfidx": "9",
+  "task": "44330",
+  "drf": "DRF 4778714",
+  "commit": "Commit ID: e87a363 we were assigning \"O\" instead of \"0\". Oops.",
+  "filename": "mfkycl_pcd_entity.p",
+  "module": "api_MFAI",
+  "version": 24200
+ },
+ {
+  "drfidx": "10",
+  "task": "44370",
+  "drf": "DRF 4778714",
+  "commit": "Commit ID: 0afc5ba ",
+  "filename": "mfkycl_pcd_entity.p",
+  "module": "api_MFAI",
+  "version": 24300
+ },
+ {
+  "drfidx": "11",
+  "task": "44330",
+  "drf": "DRF 4778714",
+  "commit": "Commit ID: e87a363 we were assigning \"O\" instead of \"0\". Oops.",
+  "filename": "mfkycl_pcd_joint.p",
+  "module": "api_MFAI",
+  "version": 14000
+ },
+ {
+  "drfidx": "12",
+  "task": "44263",
+  "drf": "DRF 4778714",
+  "commit": "Commit ID: 1cfc396 after updating address; update client record to reflect updated res",
+  "filename": "mfkycl_updcontact_pcd.i",
+  "module": "api_MFAI",
+  "version": 11300
+ },
+ {
+  "drfidx": "13",
+  "task": "44262",
+  "drf": "DRF 4778714",
+  "commit": "Commit ID: 59b51b1 convert single numbers from double digits (01; 02; etc) to single digits",
+  "filename": "mfkycl_updfinprof_pcd.i",
+  "module": "api_MFAI",
+  "version": 10600
+ },
+ {
+  "drfidx": "14",
+  "task": "44634",
+  "drf": "DRF 4778714",
+  "commit": "Commit ID: 803f05a ",
+  "filename": "mfkycl_updfinprof_pcd.i",
+  "module": "api_MFAI",
+  "version": 10700
+ },
+ {
+  "drfidx": "15",
+  "task": "44681",
+  "drf": "DRF 4778714",
+  "commit": "Commit ID: 0c2147e ",
+  "filename": "mfkycl_updfinprof_pcd.i",
+  "module": "api_MFAI",
+  "version": 10800
+ },
+ {
+  "drfidx": "16",
+  "task": "44265",
+  "drf": "DRF 4778714",
+  "commit": "Commit ID: 911f842 if commonlaw; change to common-law.",
+  "filename": "mfkycl_updmfclna_pcd.p",
+  "module": "api_MFAI",
+  "version": 10700
+ },
+ {
+  "drfidx": "17",
+  "task": "44262",
+  "drf": "DRF 4778714",
+  "commit": "Commit ID: 59b51b1 convert single numbers from double digits (01; 02; etc) to single digits",
+  "filename": "mfkywb_pcd.p",
+  "module": "api_MFAI",
+  "version": 13300
+ },
+ {
+  "drfidx": "18",
+  "task": "44466",
+  "drf": "DRF 4778714",
+  "commit": "Commit ID: aa8fc53 loop through active mfirs records where role = \"co-applicant\". If there",
+  "filename": "mfkywb_pcd.p",
+  "module": "api_MFAI",
+  "version": 13400
+ },
+ {
+  "drfidx": "19",
+  "task": "44479",
+  "drf": "DRF 4778714",
+  "commit": "Commit ID: 364d6ce for both legacy and inform created cleints; loop through mfirs records",
+  "filename": "mfkywb_pcd.p",
+  "module": "api_MFAI",
+  "version": 13500
+ },
+ {
+  "drfidx": "20",
+  "task": "44525",
+  "drf": "DRF 4778714",
+  "commit": "Commit ID: 200a046 ",
+  "filename": "mfkywb_pcd.p",
+  "module": "api_MFAI",
+  "version": 13600
+ },
+ {
+  "drfidx": "21",
+  "task": "44546",
+  "drf": "DRF 4778714",
+  "commit": "Commit ID: 15b8aa0 ",
+  "filename": "mfkywb_pcd.p",
+  "module": "api_MFAI",
+  "version": 13800
+ },
+ {
+  "drfidx": "22",
+  "task": "44682",
+  "drf": "DRF 4778714",
+  "commit": "Commit ID: 91e45e2 ",
+  "filename": "mfkywb_pcd.p",
+  "module": "api_MFAI",
+  "version": 13900
+ },
+ {
+  "drfidx": "23",
+  "task": "44702",
+  "drf": "DRF 4778714",
+  "commit": "Commit ID: 8186783 ",
+  "filename": "mfkywb_pcd.p",
+  "module": "api_MFAI",
+  "version": 14000
+ },
+ {
+  "drfidx": "24",
+  "task": "44384",
+  "drf": "DRF 4778714",
+  "commit": "Commit ID: 47ab693 common law wasn't appearing in the approve/reject window",
+  "filename": "mfkywm_pcd.p",
+  "module": "api_MFAI",
+  "version": 12700
+ },
+ {
+  "drfidx": "25",
+  "task": "44634",
+  "drf": "DRF 4778714",
+  "commit": "Commit ID: 803f05a ",
+  "filename": "mfkywm_pcd.p",
+  "module": "api_MFAI",
+  "version": 12800
+ },
+ {
+  "drfidx": "0",
+  "task": "44269",
+  "drf": "DRF 4779144",
+  "commit": "Commit ID: bc1dc26 ",
+  "filename": "omcgcax.p",
+  "module": "api_OMAI",
+  "version": 10700
+ },
+ {
+  "drfidx": "0",
+  "task": "44339",
+  "drf": "DRF 4787287",
+  "commit": "Commit ID: 5f0e04e ",
+  "filename": "accrmid.p",
+  "module": "api_ACAI",
+  "version": 10000
+ },
+ {
+  "drfidx": "1",
+  "task": "44339",
+  "drf": "DRF 4787287",
+  "commit": "Commit ID: 5f0e04e ",
+  "filename": "acmbke.p",
+  "module": "api_ACAI",
+  "version": 10000
+ },
+ {
+  "drfidx": "2",
+  "task": "44339",
+  "drf": "DRF 4787287",
+  "commit": "Commit ID: 5f0e04e ",
+  "filename": "acmbke.w",
+  "module": "wcl_ACPR",
+  "version": 10000
+ },
+ {
+  "drfidx": "3",
+  "task": "44339",
+  "drf": "DRF 4787287",
+  "commit": "Commit ID: 5f0e04e ",
+  "filename": "acmemoc.p",
+  "module": "api_ACAI",
+  "version": 10000
+ },
+ {
+  "drfidx": "4",
+  "task": "44339",
+  "drf": "DRF 4787287",
+  "commit": "Commit ID: 5f0e04e ",
+  "filename": "acmemor.p",
+  "module": "api_ACAI",
+  "version": 10000
+ },
+ {
+  "drfidx": "5",
+  "task": "44339",
+  "drf": "DRF 4787287",
+  "commit": "Commit ID: 5f0e04e ",
+  "filename": "acmemo_d.p",
+  "module": "api_ACAI",
+  "version": 10000
+ },
+ {
+  "drfidx": "6",
+  "task": "45255",
+  "drf": "DRF 4787287",
+  "commit": "Commit ID: 3a20d05 ",
+  "filename": "acmemo_d.p",
+  "module": "api_ACAI",
+  "version": 10100
+ },
+ {
+  "drfidx": "7",
+  "task": "44339",
+  "drf": "DRF 4787287",
+  "commit": "Commit ID: 5f0e04e ",
+  "filename": "acmemo_di.w",
+  "module": "wcl_ACPR",
+  "version": 10000
+ },
+ {
+  "drfidx": "8",
+  "task": "44339",
+  "drf": "DRF 4787287",
+  "commit": "Commit ID: 5f0e04e ",
+  "filename": "acmemo_x.i",
+  "module": "api_ACAI",
+  "version": 10000
+ },
+ {
+  "drfidx": "9",
+  "task": "44339",
+  "drf": "DRF 4787287",
+  "commit": "Commit ID: 5f0e04e ",
+  "filename": "acmemo_x.p",
+  "module": "api_ACAI",
+  "version": 10000
+ },
+ {
+  "drfidx": "10",
+  "task": "44339",
+  "drf": "DRF 4787287",
+  "commit": "Commit ID: 5f0e04e ",
+  "filename": "acmemo_x.w",
+  "module": "wcl_ACPR",
+  "version": 10000
+ },
+ {
+  "drfidx": "11",
+  "task": "44648",
+  "drf": "DRF 4787287",
+  "commit": "Commit ID: 1716d94 ",
+  "filename": "acmemo_x.w",
+  "module": "wcl_ACPR",
+  "version": 10100
+ },
+ {
+  "drfidx": "12",
+  "task": "45193",
+  "drf": "DRF 4787287",
+  "commit": "Commit ID: 1764fcd ",
+  "filename": "acmemo_x.w",
+  "module": "wcl_ACPR",
+  "version": 10200
+ },
+ {
+  "drfidx": "13",
+  "task": "44339",
+  "drf": "DRF 4787287",
+  "commit": "Commit ID: 5f0e04e ",
+  "filename": "acmvhsp.w",
+  "module": "wcl_ACPR",
+  "version": 10000
+ },
+ {
+  "drfidx": "14",
+  "task": "45193",
+  "drf": "DRF 4787287",
+  "commit": "Commit ID: 1764fcd ",
+  "filename": "acmvhsp.w",
+  "module": "wcl_ACPR",
+  "version": 10100
+ },
+ {
+  "drfidx": "15",
+  "task": "45223",
+  "drf": "DRF 4787287",
+  "commit": "Commit ID: c8264d5 ",
+  "filename": "acmvhsp.w",
+  "module": "wcl_ACPR",
+  "version": 10200
+ },
+ {
+  "drfidx": "16",
+  "task": "44339",
+  "drf": "DRF 4787287",
+  "commit": "Commit ID: 5f0e04e ",
+  "filename": "acmvhsr.p",
+  "module": "api_ACAI",
+  "version": 10000
+ },
+ {
+  "drfidx": "17",
+  "task": "45193",
+  "drf": "DRF 4787287",
+  "commit": "Commit ID: 1764fcd ",
+  "filename": "acmvhsr.p",
+  "module": "api_ACAI",
+  "version": 10100
+ },
+ {
+  "drfidx": "18",
+  "task": "45193",
+  "drf": "DRF 4787287",
+  "commit": "Commit ID: 1764fcd ",
+  "filename": "acmvhsx.p",
+  "module": "api_ACAI",
+  "version": 11600
+ },
+ {
+  "drfidx": "19",
+  "task": "44339",
+  "drf": "DRF 4787287",
+  "commit": "Commit ID: 5f0e04e ",
+  "filename": "gngagsx.p",
+  "module": "api_GNAI",
+  "version": 13600
+ },
+ {
+  "drfidx": "20",
+  "task": "44339",
+  "drf": "DRF 4787287",
+  "commit": "Commit ID: 5f0e04e ",
+  "filename": "gngtl_x.p",
+  "module": "api_GNAI",
+  "version": 13800
+ },
+ {
+  "drfidx": "21",
+  "task": "44339",
+  "drf": "DRF 4787287",
+  "commit": "Commit ID: 5f0e04e ",
+  "filename": "gnmainf.w",
+  "module": "wcl_GNPR",
+  "version": 25000
+ },
+ {
+  "drfidx": "22",
+  "task": "45193",
+  "drf": "DRF 4787287",
+  "commit": "Commit ID: 1764fcd ",
+  "filename": "gnmainf.w",
+  "module": "wcl_GNPR",
+  "version": 25900
+ },
+ {
+  "drfidx": "23",
+  "task": "44339",
+  "drf": "DRF 4787287",
+  "commit": "Commit ID: 5f0e04e ",
+  "filename": "iqcasixr.p",
+  "module": "exc_IQPR",
+  "version": 10000
+ },
+ {
+  "drfidx": "0",
+  "task": "44566",
+  "drf": "DRF 4795043",
+  "commit": "Commit ID: 1ff0d97 ",
+  "filename": "exbkk_x.p",
+  "module": "exc_EXPR",
+  "version": 12500
+ },
+ {
+  "drfidx": "1",
+  "task": "44668",
+  "drf": "DRF 4795043",
+  "commit": "Commit ID: deea0c1 ",
+  "filename": "exboe_x.p",
+  "module": "exc_EXPR",
+  "version": 10000
+ },
+ {
+  "drfidx": "2",
+  "task": "44756",
+  "drf": "DRF 4795043",
+  "commit": "Commit ID: 2c96fb0 ",
+  "filename": "exboe_x.p",
+  "module": "exc_EXPR",
+  "version": 10100
+ },
+ {
+  "drfidx": "3",
+  "task": "44777",
+  "drf": "DRF 4795043",
+  "commit": "Commit ID: 6cae219 ",
+  "filename": "exboe_x.p",
+  "module": "exc_EXPR",
+  "version": 10200
+ },
+ {
+  "drfidx": "4",
+  "task": "44784",
+  "drf": "DRF 4795043",
+  "commit": "Commit ID: 92ef260 ",
+  "filename": "exboe_x.p",
+  "module": "exc_EXPR",
+  "version": 10300
+ },
+ {
+  "drfidx": "5",
+  "task": "44947",
+  "drf": "DRF 4795043",
+  "commit": "Commit ID: d9bdfae ",
+  "filename": "exboe_x.p",
+  "module": "exc_EXPR",
+  "version": 10400
+ },
+ {
+  "drfidx": "6",
+  "task": "44566",
+  "drf": "DRF 4795043",
+  "commit": "Commit ID: 1ff0d97 ",
+  "filename": "excsecx.p",
+  "module": "exc_EXPR",
+  "version": 12300
+ },
+ {
+  "drfidx": "7",
+  "task": "44668",
+  "drf": "DRF 4795043",
+  "commit": "Commit ID: deea0c1 ",
+  "filename": "excsecx.p",
+  "module": "exc_EXPR",
+  "version": 12400
+ },
+ {
+  "drfidx": "8",
+  "task": "44756",
+  "drf": "DRF 4795043",
+  "commit": "Commit ID: 2c96fb0 ",
+  "filename": "excsecx.p",
+  "module": "exc_EXPR",
+  "version": 12500
+ },
+ {
+  "drfidx": "9",
+  "task": "44777",
+  "drf": "DRF 4795043",
+  "commit": "Commit ID: 6cae219 ",
+  "filename": "excsecx.p",
+  "module": "exc_EXPR",
+  "version": 12600
+ },
+ {
+  "drfidx": "10",
+  "task": "44841",
+  "drf": "DRF 4795043",
+  "commit": "Commit ID: 5a01850 ",
+  "filename": "excsecx.p",
+  "module": "exc_EXPR",
+  "version": 12700
+ },
+ {
+  "drfidx": "11",
+  "task": "44566",
+  "drf": "DRF 4795043",
+  "commit": "Commit ID: 1ff0d97 ",
+  "filename": "exdasc2.p",
+  "module": "exc_EXPR",
+  "version": 13300
+ },
+ {
+  "drfidx": "12",
+  "task": "44668",
+  "drf": "DRF 4795043",
+  "commit": "Commit ID: deea0c1 ",
+  "filename": "exdasc2.p",
+  "module": "exc_EXPR",
+  "version": 13400
+ },
+ {
+  "drfidx": "13",
+  "task": "44912",
+  "drf": "DRF 4795043",
+  "commit": "Commit ID: 007c606 ",
+  "filename": "exdasc2.p",
+  "module": "exc_EXPR",
+  "version": 13500
+ },
+ {
+  "drfidx": "14",
+  "task": "44947",
+  "drf": "DRF 4795043",
+  "commit": "Commit ID: d9bdfae ",
+  "filename": "exdasc2.p",
+  "module": "exc_EXPR",
+  "version": 13600
+ },
+ {
+  "drfidx": "15",
+  "task": "44777",
+  "drf": "DRF 4795043",
+  "commit": "Commit ID: 6cae219 ",
+  "filename": "exncadjx.p",
+  "module": "exc_EXPR",
+  "version": 10200
+ },
+ {
+  "drfidx": "0",
+  "task": "44765",
+  "drf": "DRF 4795164",
+  "commit": "Commit ID: f13306d ",
+  "filename": "accounts.i",
+  "module": "api_AIPR",
+  "version": 10300
+ },
+ {
+  "drfidx": "1",
+  "task": "44765",
+  "drf": "DRF 4795164",
+  "commit": "Commit ID: f13306d ",
+  "filename": "account_info.i",
+  "module": "api_AIPRDFS_includes",
+  "version": 10000
+ },
+ {
+  "drfidx": "2",
+  "task": "45051",
+  "drf": "DRF 4795164",
+  "commit": "Commit ID: 5da0256 ",
+  "filename": "account_info.i",
+  "module": "api_AIPRDFS_includes",
+  "version": 10100
+ },
+ {
+  "drfidx": "3",
+  "task": "44765",
+  "drf": "DRF 4795164",
+  "commit": "Commit ID: f13306d ",
+  "filename": "account_position.i",
+  "module": "api_AIPRDFS_includes",
+  "version": 10000
+ },
+ {
+  "drfidx": "4",
+  "task": "44765",
+  "drf": "DRF 4795164",
+  "commit": "Commit ID: f13306d ",
+  "filename": "account_summary.i",
+  "module": "api_AIPRDFS_includes",
+  "version": 10000
+ },
+ {
+  "drfidx": "5",
+  "task": "44765",
+  "drf": "DRF 4795164",
+  "commit": "Commit ID: f13306d ",
+  "filename": "account_transaction.i",
+  "module": "api_AIPRDFS_includes",
+  "version": 10000
+ },
+ {
+  "drfidx": "6",
+  "task": "44765",
+  "drf": "DRF 4795164",
+  "commit": "Commit ID: f13306d ",
+  "filename": "address_info.i",
+  "module": "api_AIPRDFS_includes",
+  "version": 10000
+ },
+ {
+  "drfidx": "7",
+  "task": "44765",
+  "drf": "DRF 4795164",
+  "commit": "Commit ID: f13306d ",
+  "filename": "advisor_info.i",
+  "module": "api_AIPRDFS_includes",
+  "version": 10000
+ },
+ {
+  "drfidx": "8",
+  "task": "44765",
+  "drf": "DRF 4795164",
+  "commit": "Commit ID: f13306d ",
+  "filename": "aitranx.i",
+  "module": "api_AIPR",
+  "version": 10900
+ },
+ {
+  "drfidx": "9",
+  "task": "44765",
+  "drf": "DRF 4795164",
+  "commit": "Commit ID: f13306d ",
+  "filename": "aitranx.p",
+  "module": "api_AIPR",
+  "version": 11500
+ },
+ {
+  "drfidx": "10",
+  "task": "44765",
+  "drf": "DRF 4795164",
+  "commit": "Commit ID: f13306d ",
+  "filename": "beneficial_owner_info.i",
+  "module": "api_AIPRDFS_includes",
+  "version": 10000
+ },
+ {
+  "drfidx": "11",
+  "task": "44765",
+  "drf": "DRF 4795164",
+  "commit": "Commit ID: f13306d ",
+  "filename": "buffer_helpers.i",
+  "module": "api_AIPRDFS_includes",
+  "version": 10000
+ },
+ {
+  "drfidx": "12",
+  "task": "44765",
+  "drf": "DRF 4795164",
+  "commit": "Commit ID: f13306d ",
+  "filename": "client_info.i",
+  "module": "api_AIPRDFS_includes",
+  "version": 10000
+ },
+ {
+  "drfidx": "13",
+  "task": "44765",
+  "drf": "DRF 4795164",
+  "commit": "Commit ID: f13306d ",
+  "filename": "client_summary.i",
+  "module": "api_AIPRDFS_includes",
+  "version": 10000
+ },
+ {
+  "drfidx": "14",
+  "task": "44765",
+  "drf": "DRF 4795164",
+  "commit": "Commit ID: f13306d ",
+  "filename": "error_handling.i",
+  "module": "api_AIPRDFS_includes",
+  "version": 10000
+ },
+ {
+  "drfidx": "15",
+  "task": "44765",
+  "drf": "DRF 4795164",
+  "commit": "Commit ID: f13306d ",
+  "filename": "getaccountsbyclient.p",
+  "module": "api_AIPRDFS",
+  "version": 10000
+ },
+ {
+  "drfidx": "16",
+  "task": "45051",
+  "drf": "DRF 4795164",
+  "commit": "Commit ID: 5da0256 ",
+  "filename": "getaccountsbyclient.p",
+  "module": "api_AIPRDFS",
+  "version": 10100
+ },
+ {
+  "drfidx": "17",
+  "task": "44765",
+  "drf": "DRF 4795164",
+  "commit": "Commit ID: f13306d ",
+  "filename": "getaccountsbyclient_gs.p",
+  "module": "api_AIPRDFS",
+  "version": 10000
+ },
+ {
+  "drfidx": "18",
+  "task": "44765",
+  "drf": "DRF 4795164",
+  "commit": "Commit ID: f13306d ",
+  "filename": "getaddresslistbyclient.p",
+  "module": "api_AIPRDFS",
+  "version": 10000
+ },
+ {
+  "drfidx": "19",
+  "task": "44765",
+  "drf": "DRF 4795164",
+  "commit": "Commit ID: f13306d ",
+  "filename": "getaddresslistbyclient_gs.p",
+  "module": "api_AIPRDFS",
+  "version": 10000
+ },
+ {
+  "drfidx": "20",
+  "task": "44765",
+  "drf": "DRF 4795164",
+  "commit": "Commit ID: f13306d ",
+  "filename": "getadvisoraudit.p",
+  "module": "api_AIPRDFS",
+  "version": 10000
+ },
+ {
+  "drfidx": "21",
+  "task": "44765",
+  "drf": "DRF 4795164",
+  "commit": "Commit ID: f13306d ",
+  "filename": "getadvisoraudit_gs.p",
+  "module": "api_AIPRDFS",
+  "version": 10000
+ },
+ {
+  "drfidx": "22",
+  "task": "44765",
+  "drf": "DRF 4795164",
+  "commit": "Commit ID: f13306d ",
+  "filename": "getbeneficialowneraudit.p",
+  "module": "api_AIPRDFS",
+  "version": 10000
+ },
+ {
+  "drfidx": "23",
+  "task": "44765",
+  "drf": "DRF 4795164",
+  "commit": "Commit ID: f13306d ",
+  "filename": "getbeneficialowneraudit_gs.p",
+  "module": "api_AIPRDFS",
+  "version": 10000
+ },
+ {
+  "drfidx": "24",
+  "task": "44765",
+  "drf": "DRF 4795164",
+  "commit": "Commit ID: f13306d ",
+  "filename": "getbeneficialownerbyclient.p",
+  "module": "api_AIPRDFS",
+  "version": 10000
+ },
+ {
+  "drfidx": "25",
+  "task": "44765",
+  "drf": "DRF 4795164",
+  "commit": "Commit ID: f13306d ",
+  "filename": "getbeneficialownerbyclient_gs.p",
+  "module": "api_AIPRDFS",
+  "version": 10000
+ },
+ {
+  "drfidx": "26",
+  "task": "44765",
+  "drf": "DRF 4795164",
+  "commit": "Commit ID: f13306d ",
+  "filename": "getclientapisavail.p",
+  "module": "api_GNAI",
+  "version": 10600
+ },
+ {
+  "drfidx": "27",
+  "task": "44765",
+  "drf": "DRF 4795164",
+  "commit": "Commit ID: f13306d ",
+  "filename": "getclientaudit.p",
+  "module": "api_AIPRDFS",
+  "version": 10000
+ },
+ {
+  "drfidx": "28",
+  "task": "44765",
+  "drf": "DRF 4795164",
+  "commit": "Commit ID: f13306d ",
+  "filename": "getclientaudit_gs.p",
+  "module": "api_AIPRDFS",
+  "version": 10000
+ },
+ {
+  "drfidx": "29",
+  "task": "44765",
+  "drf": "DRF 4795164",
+  "commit": "Commit ID: f13306d ",
+  "filename": "getclienthouseholdaudit.p",
+  "module": "api_AIPRDFS",
+  "version": 10000
+ },
+ {
+  "drfidx": "30",
+  "task": "44765",
+  "drf": "DRF 4795164",
+  "commit": "Commit ID: f13306d ",
+  "filename": "getclienthouseholdaudit_gs.p",
+  "module": "api_AIPRDFS",
+  "version": 10000
+ },
+ {
+  "drfidx": "31",
+  "task": "44765",
+  "drf": "DRF 4795164",
+  "commit": "Commit ID: f13306d ",
+  "filename": "getinvestmentadvisor.p",
+  "module": "api_AIPRDFS",
+  "version": 10000
+ },
+ {
+  "drfidx": "32",
+  "task": "44765",
+  "drf": "DRF 4795164",
+  "commit": "Commit ID: f13306d ",
+  "filename": "getinvestmentadvisor_gs.p",
+  "module": "api_AIPRDFS",
+  "version": 10000
+ },
+ {
+  "drfidx": "33",
+  "task": "44765",
+  "drf": "DRF 4795164",
+  "commit": "Commit ID: f13306d ",
+  "filename": "getpositions.p",
+  "module": "api_AIPRDFS",
+  "version": 10000
+ },
+ {
+  "drfidx": "34",
+  "task": "44765",
+  "drf": "DRF 4795164",
+  "commit": "Commit ID: f13306d ",
+  "filename": "getpositions_gs.p",
+  "module": "api_AIPRDFS",
+  "version": 10000
+ },
+ {
+  "drfidx": "35",
+  "task": "44765",
+  "drf": "DRF 4795164",
+  "commit": "Commit ID: f13306d ",
+  "filename": "gettransactions.p",
+  "module": "api_AIPRDFS",
+  "version": 10000
+ },
+ {
+  "drfidx": "36",
+  "task": "45051",
+  "drf": "DRF 4795164",
+  "commit": "Commit ID: 5da0256 ",
+  "filename": "gettransactions.p",
+  "module": "api_AIPRDFS",
+  "version": 10100
+ },
+ {
+  "drfidx": "37",
+  "task": "44765",
+  "drf": "DRF 4795164",
+  "commit": "Commit ID: f13306d ",
+  "filename": "gettransactions_gs.p",
+  "module": "api_AIPRDFS",
+  "version": 10000
+ },
+ {
+  "drfidx": "38",
+  "task": "44765",
+  "drf": "DRF 4795164",
+  "commit": "Commit ID: f13306d ",
+  "filename": "get_accounts.p",
+  "module": "api_AIPR",
+  "version": 10100
+ },
+ {
+  "drfidx": "39",
+  "task": "44765",
+  "drf": "DRF 4795164",
+  "commit": "Commit ID: f13306d ",
+  "filename": "get_client_summaries.p",
+  "module": "api_MFAI",
+  "version": 10200
+ },
+ {
+  "drfidx": "40",
+  "task": "44765",
+  "drf": "DRF 4795164",
+  "commit": "Commit ID: f13306d ",
+  "filename": "kyc_data_info.i",
+  "module": "api_AIPRDFS_includes",
+  "version": 10000
+ },
+ {
+  "drfidx": "41",
+  "task": "44765",
+  "drf": "DRF 4795164",
+  "commit": "Commit ID: f13306d ",
+  "filename": "name_info.i",
+  "module": "api_AIPRDFS_includes",
+  "version": 10000
+ },
+ {
+  "drfidx": "42",
+  "task": "44765",
+  "drf": "DRF 4795164",
+  "commit": "Commit ID: f13306d ",
+  "filename": "searchclient.p",
+  "module": "api_AIPRDFS",
+  "version": 10000
+ },
+ {
+  "drfidx": "43",
+  "task": "45051",
+  "drf": "DRF 4795164",
+  "commit": "Commit ID: 5da0256 ",
+  "filename": "searchclient.p",
+  "module": "api_AIPRDFS",
+  "version": 10100
+ },
+ {
+  "drfidx": "44",
+  "task": "44765",
+  "drf": "DRF 4795164",
+  "commit": "Commit ID: f13306d ",
+  "filename": "searchclient_gs.p",
+  "module": "api_AIPRDFS",
+  "version": 10000
+ },
+ {
+  "drfidx": "45",
+  "task": "44765",
+  "drf": "DRF 4795164",
+  "commit": "Commit ID: f13306d ",
+  "filename": "user_profile.i",
+  "module": "api_AIPRDFS_includes",
+  "version": 10000
+ },
+ {
+  "drfidx": "0",
+  "task": "44867",
+  "drf": "DRF 4799129",
+  "commit": "Commit ID: b4507d0 ",
+  "filename": "yefrgrx.p",
+  "module": "api_YEAI",
+  "version": 11100
+ },
+ {
+  "drfidx": "1",
+  "task": "44867",
+  "drf": "DRF 4799129",
+  "commit": "Commit ID: b4507d0 ",
+  "filename": "yefrxpr.p",
+  "module": "api_YEAI",
+  "version": 11800
+ },
+ {
+  "drfidx": "2",
+  "task": "45047",
+  "drf": "DRF 4799129",
+  "commit": "Commit ID: 40dd5db ",
+  "filename": "yefrxpr.p",
+  "module": "api_YEAI",
+  "version": 11900
+ },
+ {
+  "drfidx": "3",
+  "task": "44867",
+  "drf": "DRF 4799129",
+  "commit": "Commit ID: b4507d0 ",
+  "filename": "yegrbox.p",
+  "module": "api_YEAI",
+  "version": 13800
+ },
+ {
+  "drfidx": "4",
+  "task": "44867",
+  "drf": "DRF 4799129",
+  "commit": "Commit ID: b4507d0 ",
+  "filename": "yerfr_x.i",
+  "module": "api_YEAI",
+  "version": 10900
+ },
+ {
+  "drfidx": "0",
+  "task": "44992",
+  "drf": "DRF 4812979",
+  "commit": "Commit ID: 2d257f4 DRF 4812979 WIP",
+  "filename": "iqgftcx.p",
+  "module": "api_IQAI",
+  "version": 10000
+ },
+ {
+  "drfidx": "1",
+  "task": "44992",
+  "drf": "DRF 4812979",
+  "commit": "Commit ID: 2d257f4 DRF 4812979 WIP",
+  "filename": "iqiitru.w",
+  "module": "wcl_IQPR",
+  "version": 14300
+ },
+ {
+  "drfidx": "0",
+  "task": "45033",
+  "drf": "DRF 4825788",
+  "commit": "Commit ID: 9390d2f ",
+  "filename": "get_kyc_iawd_list.p",
+  "module": "api_MFAI",
+  "version": 14400
+ },
+ {
+  "drfidx": "1",
+  "task": "45116",
+  "drf": "DRF 4825788",
+  "commit": "Commit ID: 8b1da75 ",
+  "filename": "mfkycl_addaccounts.i",
+  "module": "api_MFAI",
+  "version": 11700
+ },
+ {
+  "drfidx": "2",
+  "task": "45122",
+  "drf": "DRF 4825788",
+  "commit": "Commit ID: 4d7d23f ",
+  "filename": "mfkycl_addaccounts.i",
+  "module": "api_MFAI",
+  "version": 11800
+ },
+ {
+  "drfidx": "3",
+  "task": "45174",
+  "drf": "DRF 4825788",
+  "commit": "Commit ID: a603b43 ",
+  "filename": "mfkycl_getacctrownum.i",
+  "module": "api_MFAI",
+  "version": 10300
+ },
+ {
+  "drfidx": "4",
+  "task": "45122",
+  "drf": "DRF 4825788",
+  "commit": "Commit ID: 4d7d23f ",
+  "filename": "mfkycl_update.p",
+  "module": "api_MFAI",
+  "version": 13000
+ },
+ {
+  "drfidx": "5",
+  "task": "45156",
+  "drf": "DRF 4825788",
+  "commit": "Commit ID: f8ca6d7 ",
+  "filename": "mfkycl_update.p",
+  "module": "api_MFAI",
+  "version": 13100
+ },
+ {
+  "drfidx": "6",
+  "task": "45102",
+  "drf": "DRF 4825788",
+  "commit": "Commit ID: 5fec15d ",
+  "filename": "mfkycl_updateaccts.p",
+  "module": "api_MFAI",
+  "version": 11000
+ },
+ {
+  "drfidx": "7",
+  "task": "45108",
+  "drf": "DRF 4825788",
+  "commit": "Commit ID: b131601 ",
+  "filename": "mfkycl_updateaccts.p",
+  "module": "api_MFAI",
+  "version": 11100
+ },
+ {
+  "drfidx": "8",
+  "task": "45102",
+  "drf": "DRF 4825788",
+  "commit": "Commit ID: 5fec15d ",
+  "filename": "mfkycl_updateleveraged.p",
+  "module": "api_MFAI",
+  "version": 10500
+ },
+ {
+  "drfidx": "9",
+  "task": "45108",
+  "drf": "DRF 4825788",
+  "commit": "Commit ID: b131601 ",
+  "filename": "mfkycl_updateleveraged.p",
+  "module": "api_MFAI",
+  "version": 10600
+ },
+ {
+  "drfidx": "10",
+  "task": "45116",
+  "drf": "DRF 4825788",
+  "commit": "Commit ID: 8b1da75 ",
+  "filename": "mfkycl_updateleveraged.p",
+  "module": "api_MFAI",
+  "version": 10700
+ },
+ {
+  "drfidx": "11",
+  "task": "45122",
+  "drf": "DRF 4825788",
+  "commit": "Commit ID: 4d7d23f ",
+  "filename": "mfkycl_updateleveraged.p",
+  "module": "api_MFAI",
+  "version": 10800
+ },
+ {
+  "drfidx": "12",
+  "task": "45022",
+  "drf": "DRF 4825788",
+  "commit": "Commit ID: 90f2933 ",
+  "filename": "mfkycl_wsm.p",
+  "module": "api_MFAI",
+  "version": 12000
+ },
+ {
+  "drfidx": "13",
+  "task": "45122",
+  "drf": "DRF 4825788",
+  "commit": "Commit ID: 4d7d23f ",
+  "filename": "mfkycl_wsm.p",
+  "module": "api_MFAI",
+  "version": 12100
+ },
+ {
+  "drfidx": "14",
+  "task": "45022",
+  "drf": "DRF 4825788",
+  "commit": "Commit ID: 90f2933 ",
+  "filename": "mfkycl_wsm_entity.p",
+  "module": "api_MFAI",
+  "version": 12200
+ },
+ {
+  "drfidx": "15",
+  "task": "45055",
+  "drf": "DRF 4825788",
+  "commit": "Commit ID: 8593ac8 ",
+  "filename": "mfkycl_wsm_entity.p",
+  "module": "api_MFAI",
+  "version": 12300
+ },
+ {
+  "drfidx": "16",
+  "task": "45165",
+  "drf": "DRF 4825788",
+  "commit": "Commit ID: a3b2e96 ",
+  "filename": "mfkycl_wsm_entity.p",
+  "module": "api_MFAI",
+  "version": 12400
+ },
+ {
+  "drfidx": "17",
+  "task": "45169",
+  "drf": "DRF 4825788",
+  "commit": "Commit ID: d338d69 ",
+  "filename": "mfkycl_wsm_entity.p",
+  "module": "api_MFAI",
+  "version": 12500
+ },
+ {
+  "drfidx": "18",
+  "task": "45022",
+  "drf": "DRF 4825788",
+  "commit": "Commit ID: 90f2933 ",
+  "filename": "mfkywb_wfm.p",
+  "module": "api_MFAI",
+  "version": 13000
+ },
+ {
+  "drfidx": "19",
+  "task": "45122",
+  "drf": "DRF 4825788",
+  "commit": "Commit ID: 4d7d23f ",
+  "filename": "mfkywm_wsm.p",
+  "module": "api_MFAI",
+  "version": 12900
+ },
+ {
+  "drfidx": "0",
+  "task": "45146",
+  "drf": "DRF 4826367",
+  "commit": "Commit ID: d20f1c1 ",
+  "filename": "dmr4826367.p",
+  "module": "exc_DMR",
+  "version": 10000
+ },
+ {
+  "drfidx": "1",
+  "task": "45201",
+  "drf": "DRF 4826367",
+  "commit": "Commit ID: d1472d6 ",
+  "filename": "dmr4826367.p",
+  "module": "exc_DMR",
+  "version": 10100
+ },
+ {
+  "drfidx": "2",
+  "task": "45140",
+  "drf": "DRF 4826367",
+  "commit": "Commit ID: 023374e ",
+  "filename": "stgsrix.i",
+  "module": "api_STAI",
+  "version": 12500
+ },
+ {
+  "drfidx": "3",
+  "task": "45068",
+  "drf": "DRF 4826367",
+  "commit": "Commit ID: db1e969 ",
+  "filename": "stncasx.p",
+  "module": "api_STAI",
+  "version": 13200
+ },
+ {
+  "drfidx": "4",
+  "task": "45008",
+  "drf": "DRF 4826367",
+  "commit": "Commit ID: e03178c ",
+  "filename": "stnccox.p",
+  "module": "api_STAI",
+  "version": 12900
+ },
+ {
+  "drfidx": "5",
+  "task": "45009",
+  "drf": "DRF 4826367",
+  "commit": "Commit ID: 5ea1fd7 ",
+  "filename": "stnccox.p",
+  "module": "api_STAI",
+  "version": 13000
+ },
+ {
+  "drfidx": "6",
+  "task": "45013",
+  "drf": "DRF 4826367",
+  "commit": "Commit ID: 1e73296 ",
+  "filename": "stnccox.p",
+  "module": "api_STAI",
+  "version": 13100
+ },
+ {
+  "drfidx": "7",
+  "task": "45044",
+  "drf": "DRF 4826367",
+  "commit": "Commit ID: 8313604 ",
+  "filename": "stnccox.p",
+  "module": "api_STAI",
+  "version": 13200
+ },
+ {
+  "drfidx": "8",
+  "task": "45044",
+  "drf": "DRF 4826367",
+  "commit": "Commit ID: 8313604 ",
+  "filename": "stnsgdx.p",
+  "module": "api_STAI",
+  "version": 14100
+ },
+ {
+  "drfidx": "9",
+  "task": "45044",
+  "drf": "DRF 4826367",
+  "commit": "Commit ID: 8313604 ",
+  "filename": "stnsssx.i",
+  "module": "api_STAI",
+  "version": 11500
+ },
+ {
+  "drfidx": "0",
+  "task": "44946",
+  "drf": "DRF 4828820",
+  "commit": "Commit ID: a953265 ",
+  "filename": "hamlogo.ps",
+  "module": "exc_PSCR",
+  "version": 10000
+ },
+ {
+  "drfidx": "1",
+  "task": "44946",
+  "drf": "DRF 4828820",
+  "commit": "Commit ID: a953265 ",
+  "filename": "hamprs.ps",
+  "module": "gui_PSCR",
+  "version": 10000
+ },
+ {
+  "drfidx": "0",
+  "task": "44839",
+  "drf": "DRF 4831493",
+  "commit": "Commit ID: 52f53bf ",
+  "filename": "mfkycox.p",
+  "module": "api_MFAI",
+  "version": 17100
+ },
+ {
+  "drfidx": "0",
+  "task": "44883",
+  "drf": "DRF 4847722",
+  "commit": "Commit ID: 6526d7e ",
+  "filename": "copfprs.ps",
+  "module": "gui_PSCR",
+  "version": 10100
+ },
+ {
+  "drfidx": "1",
+  "task": "44883",
+  "drf": "DRF 4847722",
+  "commit": "Commit ID: 6526d7e ",
+  "filename": "copprs.ps",
+  "module": "gui_PSCR",
+  "version": 10100
+ },
+ {
+  "drfidx": "0",
+  "task": "45066",
+  "drf": "DRF 4852808",
+  "commit": "Commit ID: 10c5d98 ",
+  "filename": "dfsck-dt.dat",
+  "module": "exc_DMR",
+  "version": 10000
+ },
+ {
+  "drfidx": "1",
+  "task": "45105",
+  "drf": "DRF 4852808",
+  "commit": "Commit ID: be3aa77 ",
+  "filename": "dfsck-dt.txt",
+  "module": "exc_DMR",
+  "version": 10000
+ },
+ {
+  "drfidx": "2",
+  "task": "45066",
+  "drf": "DRF 4852808",
+  "commit": "Commit ID: 10c5d98 ",
+  "filename": "dfsck-hd.dat",
+  "module": "exc_DMR",
+  "version": 10000
+ },
+ {
+  "drfidx": "3",
+  "task": "45105",
+  "drf": "DRF 4852808",
+  "commit": "Commit ID: be3aa77 ",
+  "filename": "dfsck-hd.txt",
+  "module": "exc_DMR",
+  "version": 10000
+ },
+ {
+  "drfidx": "4",
+  "task": "45066",
+  "drf": "DRF 4852808",
+  "commit": "Commit ID: 10c5d98 ",
+  "filename": "dfsck-pg.dat",
+  "module": "exc_DMR",
+  "version": 10000
+ },
+ {
+  "drfidx": "5",
+  "task": "45105",
+  "drf": "DRF 4852808",
+  "commit": "Commit ID: be3aa77 ",
+  "filename": "dfsck-pg.txt",
+  "module": "exc_DMR",
+  "version": 10000
+ },
+ {
+  "drfidx": "6",
+  "task": "45019",
+  "drf": "DRF 4852808",
+  "commit": "Commit ID: 721945c ",
+  "filename": "dmr_4852808.p",
+  "module": "exc_DMR",
+  "version": 10000
+ },
+ {
+  "drfidx": "0",
+  "task": "45192",
+  "drf": "DRF 4856053",
+  "commit": "Commit ID: eff9901 ",
+  "filename": "ajax_caller.js",
+  "module": "web_DESKTOPJS_aipr",
+  "version": 16800
+ },
+ {
+  "drfidx": "1",
+  "task": "45184",
+  "drf": "DRF 4856053",
+  "commit": "Commit ID: 7e9b6ce ",
+  "filename": "applgroup_getdeletedappls.p",
+  "module": "api_MFAI",
+  "version": 10000
+ },
+ {
+  "drfidx": "2",
+  "task": "45184",
+  "drf": "DRF 4856053",
+  "commit": "Commit ID: 7e9b6ce ",
+  "filename": "applgroup_getsharedapplseq.p",
+  "module": "api_MFAI",
+  "version": 10000
+ },
+ {
+  "drfidx": "3",
+  "task": "45184",
+  "drf": "DRF 4856053",
+  "commit": "Commit ID: 7e9b6ce ",
+  "filename": "applgroup_isvalidating.p",
+  "module": "api_MFAI",
+  "version": 10000
+ },
+ {
+  "drfidx": "4",
+  "task": "45126",
+  "drf": "DRF 4856053",
+  "commit": "Commit ID: dff03de ",
+  "filename": "applgroup_packisvalidating.p",
+  "module": "api_MFAI",
+  "version": 10000
+ },
+ {
+  "drfidx": "5",
+  "task": "45128",
+  "drf": "DRF 4856053",
+  "commit": "Commit ID: cc60fe2 ",
+  "filename": "applgroup_packisvalidating.p",
+  "module": "api_MFAI",
+  "version": 10100
+ },
+ {
+  "drfidx": "6",
+  "task": "45184",
+  "drf": "DRF 4856053",
+  "commit": "Commit ID: 7e9b6ce ",
+  "filename": "applgroup_packisvalidating.p",
+  "module": "api_MFAI",
+  "version": 10200
+ },
+ {
+  "drfidx": "7",
+  "task": "45126",
+  "drf": "DRF 4856053",
+  "commit": "Commit ID: dff03de ",
+  "filename": "applgroup_packtriggers.p",
+  "module": "api_MFAI",
+  "version": 10000
+ },
+ {
+  "drfidx": "8",
+  "task": "45128",
+  "drf": "DRF 4856053",
+  "commit": "Commit ID: cc60fe2 ",
+  "filename": "applgroup_packtriggers.p",
+  "module": "api_MFAI",
+  "version": 10100
+ },
+ {
+  "drfidx": "9",
+  "task": "45184",
+  "drf": "DRF 4856053",
+  "commit": "Commit ID: 7e9b6ce ",
+  "filename": "applgroup_packtriggers.p",
+  "module": "api_MFAI",
+  "version": 10200
+ },
+ {
+  "drfidx": "10",
+  "task": "45126",
+  "drf": "DRF 4856053",
+  "commit": "Commit ID: dff03de ",
+  "filename": "applgroup_packvalidations.p",
+  "module": "api_MFAI",
+  "version": 10000
+ },
+ {
+  "drfidx": "11",
+  "task": "45128",
+  "drf": "DRF 4856053",
+  "commit": "Commit ID: cc60fe2 ",
+  "filename": "applgroup_packvalidations.p",
+  "module": "api_MFAI",
+  "version": 10100
+ },
+ {
+  "drfidx": "12",
+  "task": "45184",
+  "drf": "DRF 4856053",
+  "commit": "Commit ID: 7e9b6ce ",
+  "filename": "applgroup_packvalidations.p",
+  "module": "api_MFAI",
+  "version": 10200
+ },
+ {
+  "drfidx": "13",
+  "task": "45184",
+  "drf": "DRF 4856053",
+  "commit": "Commit ID: 7e9b6ce ",
+  "filename": "applgroup_triggers.p",
+  "module": "api_MFAI",
+  "version": 10000
+ },
+ {
+  "drfidx": "14",
+  "task": "45126",
+  "drf": "DRF 4856053",
+  "commit": "Commit ID: dff03de ",
+  "filename": "applgroup_utility.i",
+  "module": "api_MFAI",
+  "version": 10000
+ },
+ {
+  "drfidx": "15",
+  "task": "45184",
+  "drf": "DRF 4856053",
+  "commit": "Commit ID: 7e9b6ce ",
+  "filename": "applgroup_utility.i",
+  "module": "api_MFAI",
+  "version": 10100
+ },
+ {
+  "drfidx": "16",
+  "task": "45184",
+  "drf": "DRF 4856053",
+  "commit": "Commit ID: 7e9b6ce ",
+  "filename": "applgroup_validations.p",
+  "module": "api_MFAI",
+  "version": 10000
+ },
+ {
+  "drfidx": "17",
+  "task": "44955",
+  "drf": "DRF 4856053",
+  "commit": "Commit ID: a654460 ",
+  "filename": "decline_kyc_application.p",
+  "module": "api_MFAI",
+  "version": 10300
+ },
+ {
+  "drfidx": "18",
+  "task": "45192",
+  "drf": "DRF 4856053",
+  "commit": "Commit ID: eff9901 ",
+  "filename": "delete_kyc_group.p",
+  "module": "api_MFAI",
+  "version": 10000
+ },
+ {
+  "drfidx": "19",
+  "task": "45192",
+  "drf": "DRF 4856053",
+  "commit": "Commit ID: eff9901 ",
+  "filename": "delete_kyc_group_gs.p",
+  "module": "api_MFAI",
+  "version": 10000
+ },
+ {
+  "drfidx": "20",
+  "task": "45184",
+  "drf": "DRF 4856053",
+  "commit": "Commit ID: 7e9b6ce ",
+  "filename": "do_inform_workflow_stamp.p",
+  "module": "api_MFAI",
+  "version": 11100
+ },
+ {
+  "drfidx": "21",
+  "task": "45184",
+  "drf": "DRF 4856053",
+  "commit": "Commit ID: 7e9b6ce ",
+  "filename": "do_inform_workflow_stamp_group.p",
+  "module": "api_MFAI",
+  "version": 10000
+ },
+ {
+  "drfidx": "22",
+  "task": "45190",
+  "drf": "DRF 4856053",
+  "commit": "Commit ID: 409462d ",
+  "filename": "do_inform_workflow_stamp_group.p",
+  "module": "api_MFAI",
+  "version": 10100
+ },
+ {
+  "drfidx": "23",
+  "task": "45184",
+  "drf": "DRF 4856053",
+  "commit": "Commit ID: 7e9b6ce ",
+  "filename": "do_inform_workflow_stamp_primary.p",
+  "module": "api_MFAI",
+  "version": 10000
+ },
+ {
+  "drfidx": "24",
+  "task": "44871",
+  "drf": "DRF 4856053",
+  "commit": "Commit ID: 504738d initial commit for get fee acct lookup",
+  "filename": "get_api_dao_iw_kyc.p",
+  "module": "web_GNPR",
+  "version": 14200
+ },
+ {
+  "drfidx": "25",
+  "task": "45192",
+  "drf": "DRF 4856053",
+  "commit": "Commit ID: eff9901 ",
+  "filename": "get_api_dao_iw_kyc.p",
+  "module": "web_GNPR",
+  "version": 14300
+ },
+ {
+  "drfidx": "26",
+  "task": "44871",
+  "drf": "DRF 4856053",
+  "commit": "Commit ID: 504738d initial commit for get fee acct lookup",
+  "filename": "get_catalog_iw_kyc.p",
+  "module": "api_IWAI",
+  "version": 16100
+ },
+ {
+  "drfidx": "27",
+  "task": "45192",
+  "drf": "DRF 4856053",
+  "commit": "Commit ID: eff9901 ",
+  "filename": "get_catalog_iw_kyc.p",
+  "module": "api_IWAI",
+  "version": 16200
+ },
+ {
+  "drfidx": "28",
+  "task": "44886",
+  "drf": "DRF 4856053",
+  "commit": "Commit ID: b268203 update address lookup logic to only return addresses that inform can't",
+  "filename": "get_client_addresses.p",
+  "module": "api_MFAI",
+  "version": 10100
+ },
+ {
+  "drfidx": "29",
+  "task": "44991",
+  "drf": "DRF 4856053",
+  "commit": "Commit ID: 984d635 ",
+  "filename": "get_client_addresses.p",
+  "module": "api_MFAI",
+  "version": 10200
+ },
+ {
+  "drfidx": "30",
+  "task": "45151",
+  "drf": "DRF 4856053",
+  "commit": "Commit ID: 3b999fa DRF 4856053 fix address type bug",
+  "filename": "get_client_addresses.p",
+  "module": "api_MFAI",
+  "version": 10300
+ },
+ {
+  "drfidx": "31",
+  "task": "44871",
+  "drf": "DRF 4856053",
+  "commit": "Commit ID: 504738d initial commit for get fee acct lookup",
+  "filename": "get_fee_accts.p",
+  "module": "api_MFAI",
+  "version": 10000
+ },
+ {
+  "drfidx": "32",
+  "task": "44977",
+  "drf": "DRF 4856053",
+  "commit": "Commit ID: e4ae1bf add modal to search for fee accounts using acct # or app #",
+  "filename": "get_fee_accts.p",
+  "module": "api_MFAI",
+  "version": 10100
+ },
+ {
+  "drfidx": "33",
+  "task": "44998",
+  "drf": "DRF 4856053",
+  "commit": "Commit ID: 8751a37 ",
+  "filename": "get_fee_accts.p",
+  "module": "api_MFAI",
+  "version": 10200
+ },
+ {
+  "drfidx": "34",
+  "task": "44871",
+  "drf": "DRF 4856053",
+  "commit": "Commit ID: 504738d initial commit for get fee acct lookup",
+  "filename": "get_fee_accts_gs.p",
+  "module": "api_MFAI",
+  "version": 10000
+ },
+ {
+  "drfidx": "35",
+  "task": "45012",
+  "drf": "DRF 4856053",
+  "commit": "Commit ID: 5263ed1 ",
+  "filename": "iawd_conf.js",
+  "module": "web_DESKTOPPUBLIC",
+  "version": 11500
+ },
+ {
+  "drfidx": "36",
+  "task": "45192",
+  "drf": "DRF 4856053",
+  "commit": "Commit ID: eff9901 ",
+  "filename": "iawd_conf.js",
+  "module": "web_DESKTOPPUBLIC",
+  "version": 11600
+ },
+ {
+  "drfidx": "37",
+  "task": "45012",
+  "drf": "DRF 4856053",
+  "commit": "Commit ID: 5263ed1 ",
+  "filename": "iawd_deps.js",
+  "module": "web_DESKTOPPUBLIC",
+  "version": 11000
+ },
+ {
+  "drfidx": "38",
+  "task": "45192",
+  "drf": "DRF 4856053",
+  "commit": "Commit ID: eff9901 ",
+  "filename": "iawd_deps.js",
+  "module": "web_DESKTOPPUBLIC",
+  "version": 11100
+ },
+ {
+  "drfidx": "39",
+  "task": "44994",
+  "drf": "DRF 4856053",
+  "commit": "Commit ID: c6049f4 ",
+  "filename": "inform.css",
+  "module": "web_DESKTOPCSS_mfpr",
+  "version": 12800
+ },
+ {
+  "drfidx": "40",
+  "task": "45151",
+  "drf": "DRF 4856053",
+  "commit": "Commit ID: 3b999fa DRF 4856053 fix address type bug",
+  "filename": "inform.css",
+  "module": "web_DESKTOPCSS_mfpr",
+  "version": 12900
+ },
+ {
+  "drfidx": "41",
+  "task": "45191",
+  "drf": "DRF 4856053",
+  "commit": "Commit ID: 04e4a32 DRF 4856053 fix styling (css grid ie support)",
+  "filename": "inform.css",
+  "module": "web_DESKTOPCSS_mfpr",
+  "version": 13000
+ },
+ {
+  "drfidx": "42",
+  "task": "45001",
+  "drf": "DRF 4856053",
+  "commit": "Commit ID: d494b20 ",
+  "filename": "kyc.createGroupAppHelpers.js",
+  "module": "web_DESKTOPMODULE_kyc",
+  "version": 10700
+ },
+ {
+  "drfidx": "43",
+  "task": "45012",
+  "drf": "DRF 4856053",
+  "commit": "Commit ID: 5263ed1 ",
+  "filename": "kyc.createGroupAppHelpers.js",
+  "module": "web_DESKTOPMODULE_kyc",
+  "version": 10800
+ },
+ {
+  "drfidx": "44",
+  "task": "45192",
+  "drf": "DRF 4856053",
+  "commit": "Commit ID: eff9901 ",
+  "filename": "kyc.createGroupAppHelpers.js",
+  "module": "web_DESKTOPMODULE_kyc",
+  "version": 10900
+ },
+ {
+  "drfidx": "45",
+  "task": "45001",
+  "drf": "DRF 4856053",
+  "commit": "Commit ID: d494b20 ",
+  "filename": "kyc.createGroupAppSwitcher.js",
+  "module": "web_DESKTOPMODULE_kyc",
+  "version": 10300
+ },
+ {
+  "drfidx": "46",
+  "task": "45192",
+  "drf": "DRF 4856053",
+  "commit": "Commit ID: eff9901 ",
+  "filename": "kyc.createGroupAppSwitcher.js",
+  "module": "web_DESKTOPMODULE_kyc",
+  "version": 10400
+ },
+ {
+  "drfidx": "47",
+  "task": "45192",
+  "drf": "DRF 4856053",
+  "commit": "Commit ID: eff9901 ",
+  "filename": "kyc.group.createApplication.js",
+  "module": "web_DESKTOPMODULE_kyc",
+  "version": 10000
+ },
+ {
+  "drfidx": "48",
+  "task": "45192",
+  "drf": "DRF 4856053",
+  "commit": "Commit ID: eff9901 ",
+  "filename": "kyc.group.createGroupDetailHelpers.js",
+  "module": "web_DESKTOPMODULE_kyc",
+  "version": 10000
+ },
+ {
+  "drfidx": "49",
+  "task": "45192",
+  "drf": "DRF 4856053",
+  "commit": "Commit ID: eff9901 ",
+  "filename": "kyc.group.createHelpers.js",
+  "module": "web_DESKTOPMODULE_kyc",
+  "version": 10000
+ },
+ {
+  "drfidx": "50",
+  "task": "45012",
+  "drf": "DRF 4856053",
+  "commit": "Commit ID: 5263ed1 ",
+  "filename": "kyc.group.createPartyDetailHelpers.js",
+  "module": "web_DESKTOPMODULE_kyc",
+  "version": 10000
+ },
+ {
+  "drfidx": "51",
+  "task": "45192",
+  "drf": "DRF 4856053",
+  "commit": "Commit ID: eff9901 ",
+  "filename": "kyc.group.createPartyDetailHelpers.js",
+  "module": "web_DESKTOPMODULE_kyc",
+  "version": 10100
+ },
+ {
+  "drfidx": "52",
+  "task": "45192",
+  "drf": "DRF 4856053",
+  "commit": "Commit ID: eff9901 ",
+  "filename": "kyc.group.createPartyHelpers.js",
+  "module": "web_DESKTOPMODULE_kyc",
+  "version": 10000
+ },
+ {
+  "drfidx": "53",
+  "task": "45145",
+  "drf": "DRF 4856053",
+  "commit": "Commit ID: ef79c56 ",
+  "filename": "kyc.groupApplicationSlideout.html",
+  "module": "web_DESKTOPHTML_mfpr",
+  "version": 10500
+ },
+ {
+  "drfidx": "54",
+  "task": "45192",
+  "drf": "DRF 4856053",
+  "commit": "Commit ID: eff9901 ",
+  "filename": "kyc.groupApplicationSlideout.html",
+  "module": "web_DESKTOPHTML_mfpr",
+  "version": 10600
+ },
+ {
+  "drfidx": "55",
+  "task": "45001",
+  "drf": "DRF 4856053",
+  "commit": "Commit ID: d494b20 ",
+  "filename": "kyc.groupApplicationSlideout.js",
+  "module": "web_DESKTOPMODULE_kyc",
+  "version": 10900
+ },
+ {
+  "drfidx": "56",
+  "task": "45058",
+  "drf": "DRF 4856053",
+  "commit": "Commit ID: 549b64e ",
+  "filename": "kyc.groupApplicationSlideout.js",
+  "module": "web_DESKTOPMODULE_kyc",
+  "version": 11000
+ },
+ {
+  "drfidx": "57",
+  "task": "45192",
+  "drf": "DRF 4856053",
+  "commit": "Commit ID: eff9901 ",
+  "filename": "kyc.groupApplicationSlideout.js",
+  "module": "web_DESKTOPMODULE_kyc",
+  "version": 11200
+ },
+ {
+  "drfidx": "58",
+  "task": "45001",
+  "drf": "DRF 4856053",
+  "commit": "Commit ID: d494b20 ",
+  "filename": "kyc.groupApplicationSlideoutConstants.js",
+  "module": "web_DESKTOPMODULE_kyc",
+  "version": 10100
+ },
+ {
+  "drfidx": "59",
+  "task": "45001",
+  "drf": "DRF 4856053",
+  "commit": "Commit ID: d494b20 ",
+  "filename": "kyc.groupApplicationSlideoutHelpers.js",
+  "module": "web_DESKTOPMODULE_kyc",
+  "version": 10200
+ },
+ {
+  "drfidx": "60",
+  "task": "45001",
+  "drf": "DRF 4856053",
+  "commit": "Commit ID: d494b20 ",
+  "filename": "kyc.groupConfigHelpers.js",
+  "module": "web_DESKTOPMODULE_kyc",
+  "version": 10400
+ },
+ {
+  "drfidx": "61",
+  "task": "45012",
+  "drf": "DRF 4856053",
+  "commit": "Commit ID: 5263ed1 ",
+  "filename": "kyc.groupConfigHelpers.js",
+  "module": "web_DESKTOPMODULE_kyc",
+  "version": 10500
+ },
+ {
+  "drfidx": "62",
+  "task": "45192",
+  "drf": "DRF 4856053",
+  "commit": "Commit ID: eff9901 ",
+  "filename": "kyc.groupConfigHelpers.js",
+  "module": "web_DESKTOPMODULE_kyc",
+  "version": 10600
+ },
+ {
+  "drfidx": "63",
+  "task": "45113",
+  "drf": "DRF 4856053",
+  "commit": "Commit ID: c1d1f44 ",
+  "filename": "kyc.lookups.addressChooser.accordion.html",
+  "module": "web_DESKTOPHTML_mfpr",
+  "version": 10100
+ },
+ {
+  "drfidx": "64",
+  "task": "45151",
+  "drf": "DRF 4856053",
+  "commit": "Commit ID: 3b999fa DRF 4856053 fix address type bug",
+  "filename": "kyc.lookups.addressChooser.accordion.html",
+  "module": "web_DESKTOPHTML_mfpr",
+  "version": 10200
+ },
+ {
+  "drfidx": "65",
+  "task": "45191",
+  "drf": "DRF 4856053",
+  "commit": "Commit ID: 04e4a32 DRF 4856053 fix styling (css grid ie support)",
+  "filename": "kyc.lookups.addressChooser.accordion.html",
+  "module": "web_DESKTOPHTML_mfpr",
+  "version": 10300
+ },
+ {
+  "drfidx": "66",
+  "task": "44928",
+  "drf": "DRF 4856053",
+  "commit": "Commit ID: ad5143b if no addresses are returned; display \"no missing addresses\"",
+  "filename": "kyc.lookups.addressChooser.html",
+  "module": "web_DESKTOPHTML_mfpr",
+  "version": 10100
+ },
+ {
+  "drfidx": "67",
+  "task": "45151",
+  "drf": "DRF 4856053",
+  "commit": "Commit ID: 3b999fa DRF 4856053 fix address type bug",
+  "filename": "kyc.lookups.addressChooser.html",
+  "module": "web_DESKTOPHTML_mfpr",
+  "version": 10200
+ },
+ {
+  "drfidx": "68",
+  "task": "45191",
+  "drf": "DRF 4856053",
+  "commit": "Commit ID: 04e4a32 DRF 4856053 fix styling (css grid ie support)",
+  "filename": "kyc.lookups.addressChooser.html",
+  "module": "web_DESKTOPHTML_mfpr",
+  "version": 10300
+ },
+ {
+  "drfidx": "69",
+  "task": "44928",
+  "drf": "DRF 4856053",
+  "commit": "Commit ID: ad5143b if no addresses are returned; display \"no missing addresses\"",
+  "filename": "kyc.lookups.addressChooser.js",
+  "module": "web_DESKTOPMODULE_kyc",
+  "version": 10100
+ },
+ {
+  "drfidx": "70",
+  "task": "45151",
+  "drf": "DRF 4856053",
+  "commit": "Commit ID: 3b999fa DRF 4856053 fix address type bug",
+  "filename": "kyc.lookups.addressChooser.js",
+  "module": "web_DESKTOPMODULE_kyc",
+  "version": 10200
+ },
+ {
+  "drfidx": "71",
+  "task": "45191",
+  "drf": "DRF 4856053",
+  "commit": "Commit ID: 04e4a32 DRF 4856053 fix styling (css grid ie support)",
+  "filename": "kyc.lookups.addressChooser.js",
+  "module": "web_DESKTOPMODULE_kyc",
+  "version": 10300
+ },
+ {
+  "drfidx": "72",
+  "task": "45113",
+  "drf": "DRF 4856053",
+  "commit": "Commit ID: c1d1f44 ",
+  "filename": "kyc.lookups.addressChooserAccordion.js",
+  "module": "web_DESKTOPMODULE_kyc",
+  "version": 10100
+ },
+ {
+  "drfidx": "73",
+  "task": "45151",
+  "drf": "DRF 4856053",
+  "commit": "Commit ID: 3b999fa DRF 4856053 fix address type bug",
+  "filename": "kyc.lookups.addressChooserAccordion.js",
+  "module": "web_DESKTOPMODULE_kyc",
+  "version": 10200
+ },
+ {
+  "drfidx": "74",
+  "task": "45191",
+  "drf": "DRF 4856053",
+  "commit": "Commit ID: 04e4a32 DRF 4856053 fix styling (css grid ie support)",
+  "filename": "kyc.lookups.addressChooserAccordion.js",
+  "module": "web_DESKTOPMODULE_kyc",
+  "version": 10300
+ },
+ {
+  "drfidx": "75",
+  "task": "44977",
+  "drf": "DRF 4856053",
+  "commit": "Commit ID: e4ae1bf add modal to search for fee accounts using acct # or app #",
+  "filename": "kyc.lookups.feeAcctLookup.js",
+  "module": "web_DESKTOPMODULE_kyc",
+  "version": 10000
+ },
+ {
+  "drfidx": "76",
+  "task": "44989",
+  "drf": "DRF 4856053",
+  "commit": "Commit ID: c6c678c ",
+  "filename": "kyc.lookups.feeAcctLookup.js",
+  "module": "web_DESKTOPMODULE_kyc",
+  "version": 10100
+ },
+ {
+  "drfidx": "77",
+  "task": "44998",
+  "drf": "DRF 4856053",
+  "commit": "Commit ID: 8751a37 ",
+  "filename": "kyc.lookups.feeAcctLookup.js",
+  "module": "web_DESKTOPMODULE_kyc",
+  "version": 10200
+ },
+ {
+  "drfidx": "78",
+  "task": "44977",
+  "drf": "DRF 4856053",
+  "commit": "Commit ID: e4ae1bf add modal to search for fee accounts using acct # or app #",
+  "filename": "kyc.lookups.feeAcctLookup.searchBar.html",
+  "module": "web_DESKTOPHTML_mfpr",
+  "version": 10000
+ },
+ {
+  "drfidx": "79",
+  "task": "44998",
+  "drf": "DRF 4856053",
+  "commit": "Commit ID: 8751a37 ",
+  "filename": "kyc.lookups.feeAcctLookup.searchBar.html",
+  "module": "web_DESKTOPHTML_mfpr",
+  "version": 10100
+ },
+ {
+  "drfidx": "80",
+  "task": "45012",
+  "drf": "DRF 4856053",
+  "commit": "Commit ID: 5263ed1 ",
+  "filename": "kyc.lookups.pick_person.html",
+  "module": "web_DESKTOPHTML_mfpr",
+  "version": 10200
+ },
+ {
+  "drfidx": "81",
+  "task": "45012",
+  "drf": "DRF 4856053",
+  "commit": "Commit ID: 5263ed1 ",
+  "filename": "kyc.lookups.pick_person.js",
+  "module": "web_DESKTOPMODULE_kyc",
+  "version": 10600
+ },
+ {
+  "drfidx": "82",
+  "task": "45042",
+  "drf": "DRF 4856053",
+  "commit": "Commit ID: 3f95e7d For updates to entity clients; RJL wants to be able to search for existing beneficial owners that need to sign the application.",
+  "filename": "kyc.lookups.signerLookup.js",
+  "module": "web_DESKTOPMODULE_kyc",
+  "version": 10000
+ },
+ {
+  "drfidx": "83",
+  "task": "45042",
+  "drf": "DRF 4856053",
+  "commit": "Commit ID: 3f95e7d For updates to entity clients; RJL wants to be able to search for existing beneficial owners that need to sign the application.",
+  "filename": "kyc.lookups.signerLookup.searchBar.html",
+  "module": "web_DESKTOPHTML_mfpr",
+  "version": 10000
+ },
+ {
+  "drfidx": "84",
+  "task": "45012",
+  "drf": "DRF 4856053",
+  "commit": "Commit ID: 5263ed1 ",
+  "filename": "kyc.mixins.group.js",
+  "module": "web_DESKTOPMODULE_kyc",
+  "version": 10100
+ },
+ {
+  "drfidx": "85",
+  "task": "45272",
+  "drf": "DRF 4856053",
+  "commit": "Commit ID: fe7362d ",
+  "filename": "kyc.printer.js",
+  "module": "web_DESKTOPMODULE_kyc",
+  "version": 10000
+ },
+ {
+  "drfidx": "86",
+  "task": "44920",
+  "drf": "DRF 4856053",
+  "commit": "Commit ID: c2cdbe6 ",
+  "filename": "kycdata_form.p",
+  "module": "api_MFAI",
+  "version": 12600
+ },
+ {
+  "drfidx": "87",
+  "task": "44959",
+  "drf": "DRF 4856053",
+  "commit": "Commit ID: e901dda ",
+  "filename": "kycdata_form.p",
+  "module": "api_MFAI",
+  "version": 12700
+ },
+ {
+  "drfidx": "88",
+  "task": "45049",
+  "drf": "DRF 4856053",
+  "commit": "Commit ID: 185d293 ",
+  "filename": "kycdata_form.p",
+  "module": "api_MFAI",
+  "version": 12800
+ },
+ {
+  "drfidx": "89",
+  "task": "45001",
+  "drf": "DRF 4856053",
+  "commit": "Commit ID: d494b20 ",
+  "filename": "kyc_application.js",
+  "module": "web_DESKTOPMODULE_kyc",
+  "version": 42200
+ },
+ {
+  "drfidx": "90",
+  "task": "45192",
+  "drf": "DRF 4856053",
+  "commit": "Commit ID: eff9901 ",
+  "filename": "kyc_application.js",
+  "module": "web_DESKTOPMODULE_kyc",
+  "version": 42400
+ },
+ {
+  "drfidx": "91",
+  "task": "45226",
+  "drf": "DRF 4856053",
+  "commit": "Commit ID: 2855a18 ",
+  "filename": "kyc_application.js",
+  "module": "web_DESKTOPMODULE_kyc",
+  "version": 42600
+ },
+ {
+  "drfidx": "92",
+  "task": "45272",
+  "drf": "DRF 4856053",
+  "commit": "Commit ID: fe7362d ",
+  "filename": "kyc_application.js",
+  "module": "web_DESKTOPMODULE_kyc",
+  "version": 42800
+ },
+ {
+  "drfidx": "93",
+  "task": "44976",
+  "drf": "DRF 4856053",
+  "commit": "Commit ID: e92807b ",
+  "filename": "kyc_applications_overview.js",
+  "module": "web_DESKTOPMODULE_kyc",
+  "version": 21400
+ },
+ {
+  "drfidx": "94",
+  "task": "45001",
+  "drf": "DRF 4856053",
+  "commit": "Commit ID: d494b20 ",
+  "filename": "kyc_applications_overview.js",
+  "module": "web_DESKTOPMODULE_kyc",
+  "version": 21500
+ },
+ {
+  "drfidx": "95",
+  "task": "45192",
+  "drf": "DRF 4856053",
+  "commit": "Commit ID: eff9901 ",
+  "filename": "kyc_applications_overview.js",
+  "module": "web_DESKTOPMODULE_kyc",
+  "version": 21600
+ },
+ {
+  "drfidx": "96",
+  "task": "45260",
+  "drf": "DRF 4856053",
+  "commit": "Commit ID: c817573 ",
+  "filename": "kyc_applications_overview.js",
+  "module": "web_DESKTOPMODULE_kyc",
+  "version": 21700
+ },
+ {
+  "drfidx": "97",
+  "task": "45264",
+  "drf": "DRF 4856053",
+  "commit": "Commit ID: 5876f7f ",
+  "filename": "kyc_applications_overview.js",
+  "module": "web_DESKTOPMODULE_kyc",
+  "version": 21800
+ },
+ {
+  "drfidx": "98",
+  "task": "45192",
+  "drf": "DRF 4856053",
+  "commit": "Commit ID: eff9901 ",
+  "filename": "kyc_application_detail.js",
+  "module": "web_DESKTOPMODULE_kyc",
+  "version": 23500
+ },
+ {
+  "drfidx": "99",
+  "task": "45226",
+  "drf": "DRF 4856053",
+  "commit": "Commit ID: 2855a18 ",
+  "filename": "kyc_form_format.js",
+  "module": "web_DESKTOPMODULE_kyc",
+  "version": 18300
+ },
+ {
+  "drfidx": "100",
+  "task": "45272",
+  "drf": "DRF 4856053",
+  "commit": "Commit ID: fe7362d ",
+  "filename": "kyc_form_format.js",
+  "module": "web_DESKTOPMODULE_kyc",
+  "version": 18400
+ },
+ {
+  "drfidx": "101",
+  "task": "45200",
+  "drf": "DRF 4856053",
+  "commit": "Commit ID: cf4035f ",
+  "filename": "kyc_form_logic.js",
+  "module": "web_DESKTOPMODULE_kyc",
+  "version": 25000
+ },
+ {
+  "drfidx": "102",
+  "task": "45192",
+  "drf": "DRF 4856053",
+  "commit": "Commit ID: eff9901 ",
+  "filename": "lodash.js",
+  "module": "web_DESKTOPPUBLIC",
+  "version": 10000
+ },
+ {
+  "drfidx": "103",
+  "task": "44851",
+  "drf": "DRF 4856053",
+  "commit": "Commit ID: 09e7672 ",
+  "filename": "mfkycl_rjl.p",
+  "module": "api_MFAI",
+  "version": 23300
+ },
+ {
+  "drfidx": "104",
+  "task": "44975",
+  "drf": "DRF 4856053",
+  "commit": "Commit ID: a4eb98e ",
+  "filename": "mfkycl_rjl.p",
+  "module": "api_MFAI",
+  "version": 23400
+ },
+ {
+  "drfidx": "105",
+  "task": "45184",
+  "drf": "DRF 4856053",
+  "commit": "Commit ID: 7e9b6ce ",
+  "filename": "mfkycl_rjl.p",
+  "module": "api_MFAI",
+  "version": 23600
+ },
+ {
+  "drfidx": "106",
+  "task": "44920",
+  "drf": "DRF 4856053",
+  "commit": "Commit ID: c2cdbe6 ",
+  "filename": "mfkycl_rjl_addkycdata.p",
+  "module": "api_MFAI",
+  "version": 11600
+ },
+ {
+  "drfidx": "107",
+  "task": "44975",
+  "drf": "DRF 4856053",
+  "commit": "Commit ID: a4eb98e ",
+  "filename": "mfkycl_rjl_cross_guarantee.p",
+  "module": "api_MFAI",
+  "version": 10500
+ },
+ {
+  "drfidx": "108",
+  "task": "44851",
+  "drf": "DRF 4856053",
+  "commit": "Commit ID: 09e7672 ",
+  "filename": "mfkycl_rjl_household.p",
+  "module": "api_MFAI",
+  "version": 10000
+ },
+ {
+  "drfidx": "109",
+  "task": "44851",
+  "drf": "DRF 4856053",
+  "commit": "Commit ID: 09e7672 ",
+  "filename": "mfkycl_rjl_household_utility.i",
+  "module": "api_MFAI",
+  "version": 10000
+ },
+ {
+  "drfidx": "110",
+  "task": "45184",
+  "drf": "DRF 4856053",
+  "commit": "Commit ID: 7e9b6ce ",
+  "filename": "mfkycl_rjl_household_utility.i",
+  "module": "api_MFAI",
+  "version": 10100
+ },
+ {
+  "drfidx": "111",
+  "task": "45267",
+  "drf": "DRF 4856053",
+  "commit": "Commit ID: ed33c54 updated alternate address mapping logic",
+  "filename": "mfkycl_rjl_utility.i",
+  "module": "api_MFAI",
+  "version": 13700
+ },
+ {
+  "drfidx": "112",
+  "task": "45151",
+  "drf": "DRF 4856053",
+  "commit": "Commit ID: 3b999fa DRF 4856053 fix address type bug",
+  "filename": "mfkycl_updcontact_rjl.p",
+  "module": "api_MFAI",
+  "version": 10500
+ },
+ {
+  "drfidx": "113",
+  "task": "45267",
+  "drf": "DRF 4856053",
+  "commit": "Commit ID: ed33c54 updated alternate address mapping logic",
+  "filename": "mfkycl_updcontact_rjl.p",
+  "module": "api_MFAI",
+  "version": 10600
+ },
+ {
+  "drfidx": "114",
+  "task": "44937",
+  "drf": "DRF 4856053",
+  "commit": "Commit ID: 8a9807f ",
+  "filename": "mfkywb_entity_rjl.p",
+  "module": "api_MFAI",
+  "version": 11600
+ },
+ {
+  "drfidx": "115",
+  "task": "44885",
+  "drf": "DRF 4856053",
+  "commit": "Commit ID: 7b6336a ",
+  "filename": "mfkywb_rjl.p",
+  "module": "api_MFAI",
+  "version": 15400
+ },
+ {
+  "drfidx": "116",
+  "task": "44886",
+  "drf": "DRF 4856053",
+  "commit": "Commit ID: b268203 update address lookup logic to only return addresses that inform can't",
+  "filename": "mfkywb_rjl.p",
+  "module": "api_MFAI",
+  "version": 15500
+ },
+ {
+  "drfidx": "117",
+  "task": "44913",
+  "drf": "DRF 4856053",
+  "commit": "Commit ID: e2a1425 ",
+  "filename": "mfkywb_rjl.p",
+  "module": "api_MFAI",
+  "version": 15600
+ },
+ {
+  "drfidx": "118",
+  "task": "44920",
+  "drf": "DRF 4856053",
+  "commit": "Commit ID: c2cdbe6 ",
+  "filename": "mfkywb_rjl.p",
+  "module": "api_MFAI",
+  "version": 15700
+ },
+ {
+  "drfidx": "119",
+  "task": "44959",
+  "drf": "DRF 4856053",
+  "commit": "Commit ID: e901dda ",
+  "filename": "mfkywb_rjl.p",
+  "module": "api_MFAI",
+  "version": 15800
+ },
+ {
+  "drfidx": "120",
+  "task": "45004",
+  "drf": "DRF 4856053",
+  "commit": "Commit ID: 1529c40 ",
+  "filename": "mfkywb_rjl.p",
+  "module": "api_MFAI",
+  "version": 15900
+ },
+ {
+  "drfidx": "121",
+  "task": "45023",
+  "drf": "DRF 4856053",
+  "commit": "Commit ID: bb6bbbf ",
+  "filename": "mfkywb_rjl.p",
+  "module": "api_MFAI",
+  "version": 16000
+ },
+ {
+  "drfidx": "122",
+  "task": "45041",
+  "drf": "DRF 4856053",
+  "commit": "Commit ID: 19cd118 ",
+  "filename": "mfkywb_rjl.p",
+  "module": "api_MFAI",
+  "version": 16100
+ },
+ {
+  "drfidx": "123",
+  "task": "45049",
+  "drf": "DRF 4856053",
+  "commit": "Commit ID: 185d293 ",
+  "filename": "mfkywb_rjl.p",
+  "module": "api_MFAI",
+  "version": 16200
+ },
+ {
+  "drfidx": "124",
+  "task": "45151",
+  "drf": "DRF 4856053",
+  "commit": "Commit ID: 3b999fa DRF 4856053 fix address type bug",
+  "filename": "mfkywb_rjl.p",
+  "module": "api_MFAI",
+  "version": 16400
+ },
+ {
+  "drfidx": "125",
+  "task": "45012",
+  "drf": "DRF 4856053",
+  "commit": "Commit ID: 5263ed1 ",
+  "filename": "moment.js",
+  "module": "web_DESKTOPPUBLIC",
+  "version": 10000
+ },
+ {
+  "drfidx": "126",
+  "task": "45042",
+  "drf": "DRF 4856053",
+  "commit": "Commit ID: 3f95e7d For updates to entity clients; RJL wants to be able to search for existing beneficial owners that need to sign the application.",
+  "filename": "person_lookup.p",
+  "module": "api_MFAI",
+  "version": 10300
+ },
+ {
+  "drfidx": "127",
+  "task": "44975",
+  "drf": "DRF 4856053",
+  "commit": "Commit ID: a4eb98e ",
+  "filename": "rjl_onboard_stage_calculator.cls",
+  "module": "api_MFAI",
+  "version": 13500
+ },
+ {
+  "drfidx": "128",
+  "task": "44990",
+  "drf": "DRF 4856053",
+  "commit": "Commit ID: 7fadc35 ",
+  "filename": "rjl_onboard_stage_calculator.cls",
+  "module": "api_MFAI",
+  "version": 13600
+ },
+ {
+  "drfidx": "129",
+  "task": "45050",
+  "drf": "DRF 4856053",
+  "commit": "Commit ID: 49aa013 include BeforeDocusign stage when determining if esign stages should be",
+  "filename": "rjl_onboard_stage_calculator.cls",
+  "module": "api_MFAI",
+  "version": 13700
+ },
+ {
+  "drfidx": "130",
+  "task": "45126",
+  "drf": "DRF 4856053",
+  "commit": "Commit ID: dff03de ",
+  "filename": "save_kyc_group.p",
+  "module": "api_MFAI",
+  "version": 11300
+ },
+ {
+  "drfidx": "131",
+  "task": "45128",
+  "drf": "DRF 4856053",
+  "commit": "Commit ID: cc60fe2 ",
+  "filename": "save_kyc_group.p",
+  "module": "api_MFAI",
+  "version": 11400
+ },
+ {
+  "drfidx": "132",
+  "task": "45184",
+  "drf": "DRF 4856053",
+  "commit": "Commit ID: 7e9b6ce ",
+  "filename": "save_kyc_group.p",
+  "module": "api_MFAI",
+  "version": 11500
+ },
+ {
+  "drfidx": "133",
+  "task": "45184",
+  "drf": "DRF 4856053",
+  "commit": "Commit ID: 7e9b6ce ",
+  "filename": "submit_kyc_application.p",
+  "module": "api_MFAI",
+  "version": 12200
+ },
+ {
+  "drfidx": "0",
+  "task": "45028",
+  "drf": "DRF 4861335",
+  "commit": "Commit ID: e51bab6 ",
+  "filename": "iausr6x.p",
+  "module": "api_IAAI",
+  "version": 10500
+ },
+ {
+  "drfidx": "0",
+  "task": "44942",
+  "drf": "DRF 4863711",
+  "commit": "Commit ID: b1bfa8b ",
+  "filename": "buy.htm",
+  "module": "web_BNSPAGES_ob",
+  "version": 12000
+ },
+ {
+  "drfidx": "1",
+  "task": "44942",
+  "drf": "DRF 4863711",
+  "commit": "Commit ID: b1bfa8b ",
+  "filename": "smart_advisor_bns.p",
+  "module": "web_MFPR",
+  "version": 12200
+ },
+ {
+  "drfidx": "2",
+  "task": "44942",
+  "drf": "DRF 4863711",
+  "commit": "Commit ID: b1bfa8b ",
+  "filename": "smart_advisor_get_is_eligible.p",
+  "module": "api_MFAI",
+  "version": 10400
+ },
+ {
+  "drfidx": "3",
+  "task": "44942",
+  "drf": "DRF 4863711",
+  "commit": "Commit ID: b1bfa8b ",
+  "filename": "smart_advisor_order_entry.p",
+  "module": "api_MFAI",
+  "version": 12900
+ },
+ {
+  "drfidx": "4",
+  "task": "44942",
+  "drf": "DRF 4863711",
+  "commit": "Commit ID: b1bfa8b ",
+  "filename": "switch.htm",
+  "module": "web_BNSPAGES_ob",
+  "version": 11100
+ },
+ {
+  "drfidx": "0",
+  "task": "45208",
+  "drf": "DRF 4864229",
+  "commit": "Commit ID: 1977eb9 ",
+  "filename": "account_search_results_list.html",
+  "module": "web_DESKTOPHTML_iqpr",
+  "version": 10700
+ },
+ {
+  "drfidx": "1",
+  "task": "45208",
+  "drf": "DRF 4864229",
+  "commit": "Commit ID: 1977eb9 ",
+  "filename": "acsucbx.i",
+  "module": "api_ACAI",
+  "version": 10900
+ },
+ {
+  "drfidx": "2",
+  "task": "45208",
+  "drf": "DRF 4864229",
+  "commit": "Commit ID: 1977eb9 ",
+  "filename": "bridge_summary.js",
+  "module": "web_DESKTOPJS_wbpr",
+  "version": 10200
+ },
+ {
+  "drfidx": "3",
+  "task": "45208",
+  "drf": "DRF 4864229",
+  "commit": "Commit ID: 1977eb9 ",
+  "filename": "client_search_results_list.html",
+  "module": "web_DESKTOPHTML_iqpr",
+  "version": 10700
+ },
+ {
+  "drfidx": "4",
+  "task": "45253",
+  "drf": "DRF 4864229",
+  "commit": "Commit ID: c931664 ",
+  "filename": "cqgaclx.p",
+  "module": "api_CQAI",
+  "version": 11100
+ },
+ {
+  "drfidx": "5",
+  "task": "45253",
+  "drf": "DRF 4864229",
+  "commit": "Commit ID: c931664 ",
+  "filename": "cqgfcsx.i",
+  "module": "api_CQAI",
+  "version": 10600
+ },
+ {
+  "drfidx": "6",
+  "task": "45253",
+  "drf": "DRF 4864229",
+  "commit": "Commit ID: c931664 ",
+  "filename": "eft_cheques.js",
+  "module": "web_DESKTOPJS_iqpr",
+  "version": 13600
+ },
+ {
+  "drfidx": "7",
+  "task": "45208",
+  "drf": "DRF 4864229",
+  "commit": "Commit ID: 1977eb9 ",
+  "filename": "gngarcx.i",
+  "module": "api_GNAI",
+  "version": 20200
+ },
+ {
+  "drfidx": "8",
+  "task": "45208",
+  "drf": "DRF 4864229",
+  "commit": "Commit ID: 1977eb9 ",
+  "filename": "gngiagx.i",
+  "module": "api_GNAI",
+  "version": 10300
+ },
+ {
+  "drfidx": "9",
+  "task": "45208",
+  "drf": "DRF 4864229",
+  "commit": "Commit ID: 1977eb9 ",
+  "filename": "gngiajx.i",
+  "module": "api_GNAI",
+  "version": 10100
+ },
+ {
+  "drfidx": "10",
+  "task": "45208",
+  "drf": "DRF 4864229",
+  "commit": "Commit ID: 1977eb9 ",
+  "filename": "household_search_results_list.html",
+  "module": "web_DESKTOPHTML_iqpr",
+  "version": 10500
+ },
+ {
+  "drfidx": "11",
+  "task": "45208",
+  "drf": "DRF 4864229",
+  "commit": "Commit ID: 1977eb9 ",
+  "filename": "iqgaacx.i",
+  "module": "api_IQAI",
+  "version": 10700
+ },
+ {
+  "drfidx": "12",
+  "task": "45253",
+  "drf": "DRF 4864229",
+  "commit": "Commit ID: c931664 ",
+  "filename": "iqgcrfx.p",
+  "module": "api_IQAI",
+  "version": 10200
+ },
+ {
+  "drfidx": "13",
+  "task": "45208",
+  "drf": "DRF 4864229",
+  "commit": "Commit ID: 1977eb9 ",
+  "filename": "iqgki_x.i",
+  "module": "api_IQAI",
+  "version": 10700
+ },
+ {
+  "drfidx": "14",
+  "task": "45208",
+  "drf": "DRF 4864229",
+  "commit": "Commit ID: 1977eb9 ",
+  "filename": "iqgkyra.i",
+  "module": "api_IQAI",
+  "version": 11100
+ },
+ {
+  "drfidx": "15",
+  "task": "45253",
+  "drf": "DRF 4864229",
+  "commit": "Commit ID: c931664 ",
+  "filename": "iqgpecr.p",
+  "module": "api_IQAI",
+  "version": 10200
+ },
+ {
+  "drfidx": "16",
+  "task": "45253",
+  "drf": "DRF 4864229",
+  "commit": "Commit ID: c931664 ",
+  "filename": "iqped_t.i",
+  "module": "api_IQAI",
+  "version": 10600
+ },
+ {
+  "drfidx": "17",
+  "task": "45242",
+  "drf": "DRF 4864229",
+  "commit": "Commit ID: 1d20fc6 ",
+  "filename": "master.js",
+  "module": "web_DESKTOPJS_iqpr",
+  "version": 15300
+ },
+ {
+  "drfidx": "18",
+  "task": "45253",
+  "drf": "DRF 4864229",
+  "commit": "Commit ID: c931664 ",
+  "filename": "mfctr_x.i",
+  "module": "api_MFAI",
+  "version": 11900
+ },
+ {
+  "drfidx": "19",
+  "task": "45208",
+  "drf": "DRF 4864229",
+  "commit": "Commit ID: 1977eb9 ",
+  "filename": "mfgastx.i",
+  "module": "api_MFAI",
+  "version": 12000
+ },
+ {
+  "drfidx": "20",
+  "task": "45253",
+  "drf": "DRF 4864229",
+  "commit": "Commit ID: c931664 ",
+  "filename": "mficacr.i",
+  "module": "api_MFAI",
+  "version": 10700
+ },
+ {
+  "drfidx": "21",
+  "task": "45242",
+  "drf": "DRF 4864229",
+  "commit": "Commit ID: 1d20fc6 ",
+  "filename": "mfmchxx.p",
+  "module": "api_MFAI",
+  "version": 10300
+ },
+ {
+  "drfidx": "22",
+  "task": "45208",
+  "drf": "DRF 4864229",
+  "commit": "Commit ID: 1977eb9 ",
+  "filename": "mfsh__x.p",
+  "module": "api_MFAI",
+  "version": 11400
+ },
+ {
+  "drfidx": "23",
+  "task": "45208",
+  "drf": "DRF 4864229",
+  "commit": "Commit ID: 1977eb9 ",
+  "filename": "msg_history.p",
+  "module": "web_GNPR",
+  "version": 10400
+ },
+ {
+  "drfidx": "24",
+  "task": "45208",
+  "drf": "DRF 4864229",
+  "commit": "Commit ID: 1977eb9 ",
+  "filename": "multiple_detail_entry.js",
+  "module": "web_DESKTOPJS_iqpr",
+  "version": 11000
+ },
+ {
+  "drfidx": "25",
+  "task": "45253",
+  "drf": "DRF 4864229",
+  "commit": "Commit ID: c931664 ",
+  "filename": "omamfdx.p",
+  "module": "api_OMAI",
+  "version": 16300
+ },
+ {
+  "drfidx": "26",
+  "task": "45253",
+  "drf": "DRF 4864229",
+  "commit": "Commit ID: c931664 ",
+  "filename": "omgisox.i",
+  "module": "api_OMAI",
+  "version": 10100
+ },
+ {
+  "drfidx": "27",
+  "task": "45253",
+  "drf": "DRF 4864229",
+  "commit": "Commit ID: c931664 ",
+  "filename": "omordtu.p",
+  "module": "com_OMPR",
+  "version": 57400
+ },
+ {
+  "drfidx": "28",
+  "task": "45253",
+  "drf": "DRF 4864229",
+  "commit": "Commit ID: c931664 ",
+  "filename": "omorolx.p",
+  "module": "com_OMPR",
+  "version": 10700
+ },
+ {
+  "drfidx": "29",
+  "task": "45253",
+  "drf": "DRF 4864229",
+  "commit": "Commit ID: c931664 ",
+  "filename": "omvccnt.i",
+  "module": "api_OMAI",
+  "version": 10100
+ },
+ {
+  "drfidx": "30",
+  "task": "45253",
+  "drf": "DRF 4864229",
+  "commit": "Commit ID: c931664 ",
+  "filename": "search_page.html",
+  "module": "web_DESKTOPHTML_iqpr",
+  "version": 10600
+ },
+ {
+  "drfidx": "31",
+  "task": "45208",
+  "drf": "DRF 4864229",
+  "commit": "Commit ID: 1977eb9 ",
+  "filename": "user_preferences.js",
+  "module": "web_DESKTOPJS_gnpr",
+  "version": 12200
+ },
+ {
+  "drfidx": "32",
+  "task": "45208",
+  "drf": "DRF 4864229",
+  "commit": "Commit ID: 1977eb9 ",
+  "filename": "view_advisor_portal.p",
+  "module": "api_MFAI",
+  "version": 10500
+ },
+ {
+  "drfidx": "33",
+  "task": "45208",
+  "drf": "DRF 4864229",
+  "commit": "Commit ID: 1977eb9 ",
+  "filename": "wbtaskc.p",
+  "module": "api_WBAI",
+  "version": 10600
+ },
+ {
+  "drfidx": "0",
+  "task": "45020",
+  "drf": "DRF 4871916",
+  "commit": "Commit ID: 896c2bf DRF 4871916 - Done",
+  "filename": "mtfflogo.ps",
+  "module": "exc_PSCR",
+  "version": 10000
+ },
+ {
+  "drfidx": "1",
+  "task": "45020",
+  "drf": "DRF 4871916",
+  "commit": "Commit ID: 896c2bf DRF 4871916 - Done",
+  "filename": "mtffprs.ps",
+  "module": "gui_PSCR",
+  "version": 10000
+ },
+ {
+  "drfidx": "2",
+  "task": "45020",
+  "drf": "DRF 4871916",
+  "commit": "Commit ID: 896c2bf DRF 4871916 - Done",
+  "filename": "mtflogo.ps",
+  "module": "exc_PSCR",
+  "version": 10000
+ },
+ {
+  "drfidx": "3",
+  "task": "45020",
+  "drf": "DRF 4871916",
+  "commit": "Commit ID: 896c2bf DRF 4871916 - Done",
+  "filename": "mtfprs.ps",
+  "module": "gui_PSCR",
+  "version": 10000
+ },
+ {
+  "drfidx": "4",
+  "task": "45252",
+  "drf": "DRF 4871916",
+  "commit": "Commit ID: 14c0e8a ",
+  "filename": "mtf_e.png",
+  "module": "web_DESKTOPIMAGES",
+  "version": 10100
+ },
+ {
+  "drfidx": "5",
+  "task": "45252",
+  "drf": "DRF 4871916",
+  "commit": "Commit ID: 14c0e8a ",
+  "filename": "mtf_f.png",
+  "module": "web_DESKTOPIMAGES",
+  "version": 10100
+ },
+ {
+  "drfidx": "6",
+  "task": "45020",
+  "drf": "DRF 4871916",
+  "commit": "Commit ID: 896c2bf DRF 4871916 - Done",
+  "filename": "sfl_e.png",
+  "module": "web_DESKTOPIMAGES",
+  "version": 10000
+ },
+ {
+  "drfidx": "7",
+  "task": "45020",
+  "drf": "DRF 4871916",
+  "commit": "Commit ID: 896c2bf DRF 4871916 - Done",
+  "filename": "sfl_f.png",
+  "module": "web_DESKTOPIMAGES",
+  "version": 10000
+ },
+ {
+  "drfidx": "0",
+  "task": "45007",
+  "drf": "DRF 4873931",
+  "commit": "Commit ID: 59abd30 ",
+  "filename": "csi_onboard_stage_calculator.cls",
+  "module": "api_MFAI",
+  "version": 12200
+ },
+ {
+  "drfidx": "0",
+  "task": "45222",
+  "drf": "DRF 4875637",
+  "commit": "Commit ID: f61b4cf DRF 4875637 Refactor client dependency manager application creators into methods",
+  "filename": "account_beneficiary_mapper_ibnaaf_seg.cls",
+  "module": "api_INGMAPSRVC_mappers",
+  "version": 10000
+ },
+ {
+  "drfidx": "1",
+  "task": "45222",
+  "drf": "DRF 4875637",
+  "commit": "Commit ID: f61b4cf DRF 4875637 Refactor client dependency manager application creators into methods",
+  "filename": "account_beneficiary_mapper_tfsa_ibnaaf_mtf.cls",
+  "module": "api_INGMAPSRVC_mappers",
+  "version": 10100
+ },
+ {
+  "drfidx": "2",
+  "task": "45090",
+  "drf": "DRF 4875637",
+  "commit": "Commit ID: 48b9d04 DRF 4875637 Setup SEG base skeleton to submit a SEG fund application",
+  "filename": "account_beneficiary_tt_builder.cls",
+  "module": "api_INGMAPSRVC_adapters",
+  "version": 10200
+ },
+ {
+  "drfidx": "3",
+  "task": "45092",
+  "drf": "DRF 4875637",
+  "commit": "Commit ID: 2c66064 ",
+  "filename": "account_mapper_ibnaaf_mtf.cls",
+  "module": "api_INGMAPSRVC_mappers",
+  "version": 10600
+ },
+ {
+  "drfidx": "4",
+  "task": "45222",
+  "drf": "DRF 4875637",
+  "commit": "Commit ID: f61b4cf DRF 4875637 Refactor client dependency manager application creators into methods",
+  "filename": "account_mapper_ibnaaf_mtf.cls",
+  "module": "api_INGMAPSRVC_mappers",
+  "version": 10700
+ },
+ {
+  "drfidx": "5",
+  "task": "45222",
+  "drf": "DRF 4875637",
+  "commit": "Commit ID: f61b4cf DRF 4875637 Refactor client dependency manager application creators into methods",
+  "filename": "account_mapper_ibnaaf_seg.cls",
+  "module": "api_INGMAPSRVC_mappers",
+  "version": 10000
+ },
+ {
+  "drfidx": "6",
+  "task": "45089",
+  "drf": "DRF 4875637",
+  "commit": "Commit ID: d8839bd ",
+  "filename": "address_mapper_debugging_decorator.cls",
+  "module": "api_INGMAPSRVC_mappers",
+  "version": 10400
+ },
+ {
+  "drfidx": "7",
+  "task": "45089",
+  "drf": "DRF 4875637",
+  "commit": "Commit ID: d8839bd ",
+  "filename": "address_mapper_itf_decorator_mtf.cls",
+  "module": "api_INGMAPSRVC_mappers",
+  "version": 10600
+ },
+ {
+  "drfidx": "8",
+  "task": "45182",
+  "drf": "DRF 4875637",
+  "commit": "Commit ID: e651410 ",
+  "filename": "address_mapper_joint_decorator_mtf.cls",
+  "module": "api_INGMAPSRVC_mappers",
+  "version": 10300
+ },
+ {
+  "drfidx": "9",
+  "task": "45089",
+  "drf": "DRF 4875637",
+  "commit": "Commit ID: d8839bd ",
+  "filename": "address_mapper_mtf.cls",
+  "module": "api_INGMAPSRVC_mappers",
+  "version": 10100
+ },
+ {
+  "drfidx": "10",
+  "task": "45089",
+  "drf": "DRF 4875637",
+  "commit": "Commit ID: d8839bd ",
+  "filename": "address_mapper_signatory_decorator_mtf.cls",
+  "module": "api_INGMAPSRVC_mappers",
+  "version": 10700
+ },
+ {
+  "drfidx": "11",
+  "task": "45089",
+  "drf": "DRF 4875637",
+  "commit": "Commit ID: d8839bd ",
+  "filename": "beneficial_owner_mapper_debugging_decorator.cls",
+  "module": "api_INGMAPSRVC_mappers",
+  "version": 10200
+ },
+ {
+  "drfidx": "12",
+  "task": "45089",
+  "drf": "DRF 4875637",
+  "commit": "Commit ID: d8839bd ",
+  "filename": "beneficial_owner_mapper_itf_decorator_mtf.cls",
+  "module": "api_INGMAPSRVC_mappers",
+  "version": 10500
+ },
+ {
+  "drfidx": "13",
+  "task": "45234",
+  "drf": "DRF 4875637",
+  "commit": "Commit ID: 52a1c68 ",
+  "filename": "beneficial_owner_mapper_joint_update.cls",
+  "module": "api_INGMAPSRVC_mappers",
+  "version": 10800
+ },
+ {
+  "drfidx": "14",
+  "task": "45089",
+  "drf": "DRF 4875637",
+  "commit": "Commit ID: d8839bd ",
+  "filename": "beneficial_owner_mapper_joint_update_mtf.cls",
+  "module": "api_INGMAPSRVC_mappers",
+  "version": 10100
+ },
+ {
+  "drfidx": "15",
+  "task": "45089",
+  "drf": "DRF 4875637",
+  "commit": "Commit ID: d8839bd ",
+  "filename": "beneficial_owner_mapper_signatory_decorator_mtf.cls",
+  "module": "api_INGMAPSRVC_mappers",
+  "version": 10600
+ },
+ {
+  "drfidx": "16",
+  "task": "45090",
+  "drf": "DRF 4875637",
+  "commit": "Commit ID: 48b9d04 DRF 4875637 Setup SEG base skeleton to submit a SEG fund application",
+  "filename": "client_dependency_manager_mtf.cls",
+  "module": "api_INGMAPSRVC_managers",
+  "version": 11300
+ },
+ {
+  "drfidx": "17",
+  "task": "45182",
+  "drf": "DRF 4875637",
+  "commit": "Commit ID: e651410 ",
+  "filename": "client_dependency_manager_mtf.cls",
+  "module": "api_INGMAPSRVC_managers",
+  "version": 11400
+ },
+ {
+  "drfidx": "18",
+  "task": "45222",
+  "drf": "DRF 4875637",
+  "commit": "Commit ID: f61b4cf DRF 4875637 Refactor client dependency manager application creators into methods",
+  "filename": "client_dependency_manager_mtf.cls",
+  "module": "api_INGMAPSRVC_managers",
+  "version": 11500
+ },
+ {
+  "drfidx": "19",
+  "task": "45090",
+  "drf": "DRF 4875637",
+  "commit": "Commit ID: 48b9d04 DRF 4875637 Setup SEG base skeleton to submit a SEG fund application",
+  "filename": "client_dependency_manager_seg.cls",
+  "module": "api_INGMAPSRVC_managers",
+  "version": 10000
+ },
+ {
+  "drfidx": "20",
+  "task": "45222",
+  "drf": "DRF 4875637",
+  "commit": "Commit ID: f61b4cf DRF 4875637 Refactor client dependency manager application creators into methods",
+  "filename": "client_dependency_manager_seg.cls",
+  "module": "api_INGMAPSRVC_managers",
+  "version": 10100
+ },
+ {
+  "drfidx": "21",
+  "task": "45112",
+  "drf": "DRF 4875637",
+  "commit": "Commit ID: d8dd0ca DRF 4875637 Fix cosmetics",
+  "filename": "client_entity_mapper_ibnaaf_mtf.cls",
+  "module": "api_INGMAPSRVC_mappers",
+  "version": 10400
+ },
+ {
+  "drfidx": "22",
+  "task": "45182",
+  "drf": "DRF 4875637",
+  "commit": "Commit ID: e651410 ",
+  "filename": "communication_mapper_joint_ibnaaf_mtf.cls",
+  "module": "api_INGMAPSRVC_mappers",
+  "version": 10500
+ },
+ {
+  "drfidx": "23",
+  "task": "45157",
+  "drf": "DRF 4875637",
+  "commit": "Commit ID: dd9c7d5 ",
+  "filename": "copy_kyc_application.p",
+  "module": "api_MFAI",
+  "version": 10700
+ },
+ {
+  "drfidx": "24",
+  "task": "45090",
+  "drf": "DRF 4875637",
+  "commit": "Commit ID: 48b9d04 DRF 4875637 Setup SEG base skeleton to submit a SEG fund application",
+  "filename": "dependency_manager_factory.cls",
+  "module": "api_INGMAPSRVC_managers",
+  "version": 10100
+ },
+ {
+  "drfidx": "25",
+  "task": "45107",
+  "drf": "DRF 4875637",
+  "commit": "Commit ID: a46d816 ",
+  "filename": "dependency_manager_factory.cls",
+  "module": "api_INGMAPSRVC_managers",
+  "version": 10200
+ },
+ {
+  "drfidx": "26",
+  "task": "45021",
+  "drf": "DRF 4875637",
+  "commit": "Commit ID: 8ac6435 DRF 4875637 Copy inactp records fro MTF to SEG",
+  "filename": "dmr_4875637.p",
+  "module": "exc_DMR",
+  "version": 10000
+ },
+ {
+  "drfidx": "27",
+  "task": "45034",
+  "drf": "DRF 4875637",
+  "commit": "Commit ID: ce65380 ",
+  "filename": "dmr_4875637.p",
+  "module": "exc_DMR",
+  "version": 10100
+ },
+ {
+  "drfidx": "28",
+  "task": "45109",
+  "drf": "DRF 4875637",
+  "commit": "Commit ID: 91fff0b ",
+  "filename": "dmr_4875637.p",
+  "module": "exc_DMR",
+  "version": 10200
+ },
+ {
+  "drfidx": "29",
+  "task": "45123",
+  "drf": "DRF 4875637",
+  "commit": "Commit ID: a29dd06 ",
+  "filename": "dmr_4875637.p",
+  "module": "exc_DMR",
+  "version": 10300
+ },
+ {
+  "drfidx": "30",
+  "task": "45245",
+  "drf": "DRF 4875637",
+  "commit": "Commit ID: 8d456e5 ",
+  "filename": "dmr_4875637.p",
+  "module": "exc_DMR",
+  "version": 10400
+ },
+ {
+  "drfidx": "31",
+  "task": "45069",
+  "drf": "DRF 4875637",
+  "commit": "Commit ID: 9442b29 ",
+  "filename": "generate_acct_num.p",
+  "module": "api_MFAI",
+  "version": 14100
+ },
+ {
+  "drfidx": "32",
+  "task": "45090",
+  "drf": "DRF 4875637",
+  "commit": "Commit ID: 48b9d04 DRF 4875637 Setup SEG base skeleton to submit a SEG fund application",
+  "filename": "inform_workflow.p",
+  "module": "api_MFAI",
+  "version": 11000
+ },
+ {
+  "drfidx": "33",
+  "task": "45031",
+  "drf": "DRF 4875637",
+  "commit": "Commit ID: 1c038bb ",
+  "filename": "mfmganx.p",
+  "module": "api_MFAI",
+  "version": 10100
+ },
+ {
+  "drfidx": "34",
+  "task": "45069",
+  "drf": "DRF 4875637",
+  "commit": "Commit ID: 9442b29 ",
+  "filename": "mfmganx.p",
+  "module": "api_MFAI",
+  "version": 10200
+ },
+ {
+  "drfidx": "35",
+  "task": "45089",
+  "drf": "DRF 4875637",
+  "commit": "Commit ID: d8839bd ",
+  "filename": "mtf_action_factory.cls",
+  "module": "api_MFAI",
+  "version": 10400
+ },
+ {
+  "drfidx": "36",
+  "task": "45090",
+  "drf": "DRF 4875637",
+  "commit": "Commit ID: 48b9d04 DRF 4875637 Setup SEG base skeleton to submit a SEG fund application",
+  "filename": "mtf_action_factory.cls",
+  "module": "api_MFAI",
+  "version": 10500
+ },
+ {
+  "drfidx": "37",
+  "task": "45090",
+  "drf": "DRF 4875637",
+  "commit": "Commit ID: 48b9d04 DRF 4875637 Setup SEG base skeleton to submit a SEG fund application",
+  "filename": "mtf_create_client_accounts_action.cls",
+  "module": "api_MFAI",
+  "version": 11000
+ },
+ {
+  "drfidx": "38",
+  "task": "45112",
+  "drf": "DRF 4875637",
+  "commit": "Commit ID: d8dd0ca DRF 4875637 Fix cosmetics",
+  "filename": "mtf_create_client_accounts_action.cls",
+  "module": "api_MFAI",
+  "version": 11100
+ },
+ {
+  "drfidx": "39",
+  "task": "45215",
+  "drf": "DRF 4875637",
+  "commit": "Commit ID: ed67f71 DRF 4875637 Fix querying multiple records on KYFLDB",
+  "filename": "mtf_create_client_accounts_action.cls",
+  "module": "api_MFAI",
+  "version": 11200
+ },
+ {
+  "drfidx": "40",
+  "task": "45090",
+  "drf": "DRF 4875637",
+  "commit": "Commit ID: 48b9d04 DRF 4875637 Setup SEG base skeleton to submit a SEG fund application",
+  "filename": "mtf_create_db_acct_action.cls",
+  "module": "api_MFAI",
+  "version": 10600
+ },
+ {
+  "drfidx": "41",
+  "task": "45090",
+  "drf": "DRF 4875637",
+  "commit": "Commit ID: 48b9d04 DRF 4875637 Setup SEG base skeleton to submit a SEG fund application",
+  "filename": "mtf_onboard_stage_factory.cls",
+  "module": "api_MFAI",
+  "version": 10200
+ },
+ {
+  "drfidx": "42",
+  "task": "45090",
+  "drf": "DRF 4875637",
+  "commit": "Commit ID: 48b9d04 DRF 4875637 Setup SEG base skeleton to submit a SEG fund application",
+  "filename": "mtf_onboard_workflow.cls",
+  "module": "api_MFAI",
+  "version": 10200
+ },
+ {
+  "drfidx": "43",
+  "task": "45090",
+  "drf": "DRF 4875637",
+  "commit": "Commit ID: 48b9d04 DRF 4875637 Setup SEG base skeleton to submit a SEG fund application",
+  "filename": "mtf_update_application_action.cls",
+  "module": "api_MFAI",
+  "version": 10100
+ },
+ {
+  "drfidx": "44",
+  "task": "45245",
+  "drf": "DRF 4875637",
+  "commit": "Commit ID: 8d456e5 ",
+  "filename": "name_information_mapper_helpers.cls",
+  "module": "api_INGMAPSRVC_utils",
+  "version": 10300
+ },
+ {
+  "drfidx": "45",
+  "task": "45090",
+  "drf": "DRF 4875637",
+  "commit": "Commit ID: 48b9d04 DRF 4875637 Setup SEG base skeleton to submit a SEG fund application",
+  "filename": "name_information_mapper_ibnaaf.cls",
+  "module": "api_INGMAPSRVC_mappers",
+  "version": 11100
+ },
+ {
+  "drfidx": "46",
+  "task": "45090",
+  "drf": "DRF 4875637",
+  "commit": "Commit ID: 48b9d04 DRF 4875637 Setup SEG base skeleton to submit a SEG fund application",
+  "filename": "name_information_mapper_ibnaaf_mtf.cls",
+  "module": "api_INGMAPSRVC_mappers",
+  "version": 10500
+ },
+ {
+  "drfidx": "47",
+  "task": "45234",
+  "drf": "DRF 4875637",
+  "commit": "Commit ID: 52a1c68 ",
+  "filename": "name_information_mapper_joint_decorator.cls",
+  "module": "api_INGMAPSRVC_mappers",
+  "version": 11600
+ },
+ {
+  "drfidx": "48",
+  "task": "45154",
+  "drf": "DRF 4875637",
+  "commit": "Commit ID: 34a14a2 ",
+  "filename": "risk_mapper_factory.cls",
+  "module": "api_INGMAPSRVC_mappers",
+  "version": 10200
+ },
+ {
+  "drfidx": "49",
+  "task": "45112",
+  "drf": "DRF 4875637",
+  "commit": "Commit ID: d8dd0ca DRF 4875637 Fix cosmetics",
+  "filename": "risk_mapper_ibnaaf.cls",
+  "module": "api_INGMAPSRVC_mappers",
+  "version": 10200
+ },
+ {
+  "drfidx": "50",
+  "task": "45154",
+  "drf": "DRF 4875637",
+  "commit": "Commit ID: 34a14a2 ",
+  "filename": "risk_mapper_ibnaaf.cls",
+  "module": "api_INGMAPSRVC_mappers",
+  "version": 10300
+ },
+ {
+  "drfidx": "51",
+  "task": "45183",
+  "drf": "DRF 4875637",
+  "commit": "Commit ID: 9b0849d ",
+  "filename": "risk_mapper_ibnaaf.cls",
+  "module": "api_INGMAPSRVC_mappers",
+  "version": 10400
+ },
+ {
+  "drfidx": "52",
+  "task": "45154",
+  "drf": "DRF 4875637",
+  "commit": "Commit ID: 34a14a2 ",
+  "filename": "risk_mapper_ibnaaf_mtf.cls",
+  "module": "api_INGMAPSRVC_mappers",
+  "version": 10000
+ },
+ {
+  "drfidx": "53",
+  "task": "45183",
+  "drf": "DRF 4875637",
+  "commit": "Commit ID: 9b0849d ",
+  "filename": "risk_mapper_ibnaaf_mtf.cls",
+  "module": "api_INGMAPSRVC_mappers",
+  "version": 10100
+ },
+ {
+  "drfidx": "54",
+  "task": "45090",
+  "drf": "DRF 4875637",
+  "commit": "Commit ID: 48b9d04 DRF 4875637 Setup SEG base skeleton to submit a SEG fund application",
+  "filename": "seg_action_factory.cls",
+  "module": "api_MFAI",
+  "version": 10000
+ },
+ {
+  "drfidx": "55",
+  "task": "45090",
+  "drf": "DRF 4875637",
+  "commit": "Commit ID: 48b9d04 DRF 4875637 Setup SEG base skeleton to submit a SEG fund application",
+  "filename": "seg_create_client_accounts_action.cls",
+  "module": "api_MFAI",
+  "version": 10000
+ },
+ {
+  "drfidx": "56",
+  "task": "45112",
+  "drf": "DRF 4875637",
+  "commit": "Commit ID: d8dd0ca DRF 4875637 Fix cosmetics",
+  "filename": "seg_create_client_accounts_action.cls",
+  "module": "api_MFAI",
+  "version": 10100
+ },
+ {
+  "drfidx": "57",
+  "task": "45090",
+  "drf": "DRF 4875637",
+  "commit": "Commit ID: 48b9d04 DRF 4875637 Setup SEG base skeleton to submit a SEG fund application",
+  "filename": "seg_create_db_acct_action.cls",
+  "module": "api_MFAI",
+  "version": 10000
+ },
+ {
+  "drfidx": "58",
+  "task": "45090",
+  "drf": "DRF 4875637",
+  "commit": "Commit ID: 48b9d04 DRF 4875637 Setup SEG base skeleton to submit a SEG fund application",
+  "filename": "seg_onboard_stage_factory.cls",
+  "module": "api_MFAI",
+  "version": 10000
+ },
+ {
+  "drfidx": "59",
+  "task": "45090",
+  "drf": "DRF 4875637",
+  "commit": "Commit ID: 48b9d04 DRF 4875637 Setup SEG base skeleton to submit a SEG fund application",
+  "filename": "seg_onboard_workflow.cls",
+  "module": "api_MFAI",
+  "version": 10000
+ },
+ {
+  "drfidx": "60",
+  "task": "45090",
+  "drf": "DRF 4875637",
+  "commit": "Commit ID: 48b9d04 DRF 4875637 Setup SEG base skeleton to submit a SEG fund application",
+  "filename": "stage_calculator_factory.cls",
+  "module": "api_MFAI",
+  "version": 11100
+ },
+ {
+  "drfidx": "61",
+  "task": "45090",
+  "drf": "DRF 4875637",
+  "commit": "Commit ID: 48b9d04 DRF 4875637 Setup SEG base skeleton to submit a SEG fund application",
+  "filename": "workflow.cls",
+  "module": "api_MFAI",
+  "version": 13300
+ },
+ {
+  "drfidx": "62",
+  "task": "45090",
+  "drf": "DRF 4875637",
+  "commit": "Commit ID: 48b9d04 DRF 4875637 Setup SEG base skeleton to submit a SEG fund application",
+  "filename": "workflow_factory.cls",
+  "module": "api_MFAI",
+  "version": 11500
+ },
+ {
+  "drfidx": "0",
+  "task": "45141",
+  "drf": "DRF 4884502",
+  "commit": "Commit ID: 0d80baa ",
+  "filename": "mfpoedx.p",
+  "module": "api_MFAI",
+  "version": 13000
+ },
+ {
+  "drfidx": "1",
+  "task": "45142",
+  "drf": "DRF 4884502",
+  "commit": "Commit ID: 152b621 ",
+  "filename": "mfpoedx.p",
+  "module": "api_MFAI",
+  "version": 13100
+ },
+ {
+  "drfidx": "0",
+  "task": "45221",
+  "drf": "DRF 4894740",
+  "commit": "Commit ID: ef8796f ",
+  "filename": "kyc_application.js",
+  "module": "web_DESKTOPMODULE_kyc",
+  "version": 42500
+ }
+]
